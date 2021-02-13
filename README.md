@@ -1,2 +1,3 @@
 # ECE143_Drug_Analysis
-To be filled.
+
+A project on analysing drugs and diseases in the US and the world.
