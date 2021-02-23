@@ -1,0 +1,2527 @@
+,Condition,id
+0,Left Ventricular Dysfunction,137070
+1,ADHD,137071
+2,Birth Control,139691
+3,Opiate Dependence,137073
+4,Benign Prostatic Hyperplasia,137074
+5,Emergency Contraception,137075
+6,Bipolar Disorde,137076
+7,Epilepsy,137077
+8,Migraine Prevention,139817
+9,Depression,139963
+10,Crohn's Disease,139897
+11,Cough,139863
+12,Obesity,137082
+13,Urinary Tract Infection,140068
+14,ibromyalgia,137084
+15,Chronic Myelogenous Leukemia,137085
+16,HIV Infection,137086
+17,Insomnia,137087
+18,Rheumatoid Arthritis,139823
+19,Vaginal Yeast Infection,137089
+20,Chlamydia Infection,137090
+21,Hirsutism,137091
+22,Panic Disorde,137092
+23,Migraine,137093
+24,,137094
+25,Pain,139769
+26,Irritable Bowel Syndrome,137096
+27,Osteoarthritis,137097
+28,Constipation,137098
+29,Bowel Preparation,137099
+30,Psychosis,137100
+31,Muscle Spasm,139767
+32,Hepatitis C,137102
+33,Overactive Bladde,137103
+34,"Diabetes, Type 2",137104
+35,"Asthma, Maintenance",137105
+36,Non-Small Cell Lung Cance,137106
+37,Schizophrenia,139726
+38,Dysuria,137108
+39,Smoking Cessation,137109
+40,Anxiety,137110
+41,Acne,139693
+42,emale Infertility,137112
+43,"Constipation, Acute",137113
+44,"Constipation, Drug Induced",137114
+45,Erectile Dysfunction,137115
+46,Trigeminal Neuralgia,137116
+47,Underactive Thyroid,139871
+48,Chronic Pain,140152
+49,Atrophic Vaginitis,137119
+50,Skin and Structure Infection,137120
+51,Tinnitus,137121
+52,Major Depressive Disorde,137122
+53,Anxiety and Stress,137123
+54,Rosacea,137124
+55,High Blood Pressure,139754
+56,Restless Legs Syndrome,137126
+57,Osteolytic Bone Metastases of Solid Tumors,137127
+58,Bronchitis,140291
+59,Skin or Soft Tissue Infection,137129
+60,Obsessive Compulsive Disorde,137130
+61,Endometriosis,139722
+62,Keratoconjunctivitis Sicca,137132
+63,Breakthrough Pain,137133
+64,Seizures,140708
+65,Neuropathic Pain,139697
+66,Sedation,137136
+67,Menstrual Disorders,137137
+68,Allergic Rhinitis,137138
+69,Anesthesia,137139
+70,Undifferentiated Connective Tissue Disease,137140
+71,"Diabetes, Type 1",137141
+72,Abnormal Uterine Bleeding,137142
+73,Weight Loss,137143
+74,"Constipation, Chronic",137144
+75,"Breast Cancer, Metastatic",137145
+76,Period Pain,137146
+77,Helicobacter Pylori Infection,137147
+78,Atrial Fibrillation,140575
+79,Uterine Fibroids,137149
+80,Kidney Infections,137150
+81,Generalized Anxiety Disorde,137151
+82,Asthma,140290
+83,Postmenopausal Symptoms,137153
+84,High Cholesterol,139735
+85,"Hypogonadism, Male",137155
+86,Hyperthyroidism,137156
+87,Back Pain,137157
+88,Anaplastic Oligodendroglioma,137158
+89,Sjogren's Syndrome,137159
+90,"Asthma, acute",137160
+91,Hot Flashes,137161
+92,"Herpes Simplex, Suppression",137162
+93,Bacterial Infection,137163
+94,Bursitis,137164
+95,Diaper Rash,140115
+96,Systemic Mastocytosis,137166
+97,Trichotillomania,137167
+98,Hashimoto's disease,137168
+99,Eczema,140377
+100,Dental Abscess,137170
+101,Headache,137171
+102,Hypersomnia,137172
+103,Xerostomia,137173
+104,Breast Cance,137174
+105,Sore Throat,137175
+106,Barrett's Esophagus,137176
+107,Pain/Feve,137177
+108,Diverticulitis,140401
+109,Sinusitis,137179
+110,Polycystic Ovary Syndrome,137180
+111,Influenza,137181
+112,"Hypothyroidism, After Thyroid Removal",137182
+113,"Onychomycosis, Toenail",137183
+114,Progesterone Insufficiency,137184
+115,GERD,137185
+116,"Nausea/Vomiting, Postoperative",137186
+117,Herpes Simplex,137187
+118,Gastroparesis,137188
+119,"Gout, Acute",137189
+120,Motion Sickness,140064
+121,Multiple Sclerosis,140434
+122,Autism,137192
+123,Otitis Media,137193
+124,Upper Respiratory Tract Infection,137194
+125,Surgical Prophylaxis,137195
+126,Psoriatic Arthritis,137196
+127,Erosive Esophagitis,137197
+128,Premature Ventricular Depolarizations,137198
+129,Stomach Ulce,137199
+130,Nausea/Vomiting,137200
+131,Light Anesthesia,137201
+132,Angina Pectoris Prophylaxis,137202
+133,Paranoid Disorde,137203
+134,Prostatitis,137204
+135,Extrapyramidal Reaction,140937
+136,mance Anxiety,137206
+137,Night Terrors,137207
+138,"High Cholesterol, Familial Heterozygous",137208
+139,Spondyloarthritis,137209
+140,Clostridial Infection,137210
+141,Dermatomyositis,137211
+142,Bronchiectasis,137212
+143,Nasal Congestion,137213
+144,Benign Essential Trem,137214
+145,Angina,139812
+146,moterol / mometasone),137216
+147,Impetig,137217
+148,"Conjunctivitis, Bacterial",137218
+149,Post Traumatic Stress Disorde,137219
+150,Alcohol Withdrawal,137220
+151,Psoriasis,140177
+152,Cold Sores,137222
+153,Hyperhidrosis,137223
+154,Ankylosing Spondylitis,137224
+155,Hemorrhoids,139889
+156,Schizoaffective Disorde,137226
+157,Not Listed / Othe,137227
+158,Rhinitis,137228
+159,Oral Thrush,137229
+160,Hyperlipoproteinemia,137230
+161,Neutropenia Associated with Chemotherapy,137231
+162,Osteoporosis,139763
+163,Reflex Sympathetic Dystrophy Syndrome,137233
+164,Urticaria,137234
+165,Narcolepsy,137235
+166,Systemic Lupus Erythematosus,140108
+167,Ulcerative Colitis,137237
+168,Adult Human Growth Hormone Deficiency,137238
+169,Bacterial Vaginitis,137239
+170,"COPD, Maintenance",137240
+171,Anorexia,137241
+172,TSH Suppression,137242
+173,"Breast Cancer, Adjuvant",137243
+174,Glaucoma,137244
+175,Cough and Nasal Congestion,137245
+176,Inflammatory Conditions,137246
+177,Urinary Incontinence,137247
+178,Gout,139829
+179,Bladder Infection,137249
+180,Human Papillomavirus Prophylaxis,137250
+181,Glioblastoma Multiforme,137251
+182,Strep Throat,140071
+183,Bacterial Skin Infection,137253
+184,Hereditary Angioedema,137254
+185,Cold Symptoms,139689
+186,Labor Pain,140280
+187,Dry Skin,139969
+188,Diabetes Insipidus,141392
+189,Methicillin-Resistant Staphylococcus Aureus Infection,137259
+190,Borderline Personality Disorde,137260
+191,Amenorrhea,137261
+192,Pneumonia,140346
+193,Seborrheic Dermatitis,137263
+194,Interstitial Cystitis,137264
+195,Malaria Prevention,141279
+196,Prevention of Dental Caries,137266
+197,Herbal Supplementation,137267
+198,Plaque Psoriasis,139824
+199,Raynaud's Syndrome,137269
+200,Addison's Disease,140519
+201,Prostate Cance,137271
+202,Allergies,137272
+203,Opioid-Induced Constipation,137273
+204,moterol),137274
+205,Diarrhea,139806
+206,Seasonal Allergic Conjunctivitis,137276
+207,Opioid Overdose,137277
+208,Spondylolisthesis,137278
+209,Shift Work Sleep Disorde,137279
+210,Obstructive Sleep Apnea/Hypopnea Syndrome,137280
+211,Nausea/Vomiting of Pregnancy,137281
+212,Mucositis,137282
+213,"Ulcerative Colitis, Active",137283
+214,Head Lice,137284
+215,Tonsillitis/Pharyngitis,137285
+216,Pseudotumor Cerebri,141181
+217,Parkinson's Disease,139819
+218,Sciatica,137288
+219,Cance,137289
+220,Bacterial Endocarditis Prevention,137290
+221,"Diarrhea, Chronic",137291
+222,Hypertensive Emergency,137292
+223,Keratosis,137293
+224,Ovarian Cysts,137294
+225,Behcet's Disease,137295
+226,Chronic Idiopathic Constipation,137296
+227,lic Acid Deficiency,137297
+228,Chronic Fatigue Syndrome,137298
+229,Basal Cell Carcinoma,137299
+230,Cataplexy,137300
+231,"Crohn's Disease, Maintenance",137301
+232,Diabetic Peripheral Neuropathy,137302
+233,Arrhythmia,137303
+234,Primary Ovarian Failure,140621
+235,Influenza Prophylaxis,137305
+236,Agitated State,137306
+237,Heart Failure,140543
+238,atigue,137308
+239,Opiate Withdrawal,137309
+240,"Endometrial Hyperplasia, Prophylaxis",137310
+241,Immunosuppression,137311
+242,Dystonia,137312
+243,Alopecia,137313
+244,Vulvodynia,137314
+245,Premenstrual Dysphoric Disorde,137315
+246,Alcohol Dependence,137316
+247,Myasthenia Gravis,139710
+248,Social Anxiety Disorde,137318
+249,Atopic Dermatitis,139826
+250,Schistosoma japonicum,137320
+251,Sinus Symptoms,137321
+252,min / sitagliptin),137322
+253,Dermatitis,137323
+254,Eye Redness,137324
+255,Warts,137325
+256,Menorrhagia,137326
+257,Seizure Prevention,137327
+258,Ophthalmic Surgery,137328
+259,Skin Rash,137329
+260,Condylomata Acuminata,137330
+261,NSAID-Induced Ulcer Prophylaxis,137331
+262,Tinea Versicol,137332
+263,Peripheral Neuropathy,137333
+264,Deep Vein Thrombosis,137334
+265,Heart Attack,139759
+266,"Pulmonary Embolism, Recurrent Event",137336
+267,Light Sedation,137337
+268,Acute Lymphoblastic Leukemia,137338
+269,Hyperprolactinemia,137339
+270,Indigestion,139970
+271,Hepatitis B,137341
+272,Dysautonomia,137342
+273,Status Epilepticus,137343
+274,Postpartum Depression,137344
+275,Multiple Myeloma,140042
+276,Prevention of Hypokalemia,137346
+277,Edema,137347
+278,Urinary Retention,137348
+279,Prevention of Thromboembolism in Atrial Fibrillation,137349
+280,Cluster Headaches,137350
+281,"Sexual Dysfunction, SSRI Induced",137351
+282,Dermatitis Herpetiformis,137352
+283,Temporomandibular Joint Disorde,137353
+284,"Burns, External",137354
+285,Actinic Keratosis,137355
+286,Pharyngitis,137356
+287,"Melanoma, Metastatic",137357
+288,Atrial Flutte,137358
+289,Lyme Disease,140364
+290,Dry Eye Disease,137360
+291,Allergic Reactions,137361
+292,Hypertriglyceridemia,137362
+293,Pruritus,137363
+294,Carcinoid Tum,137364
+295,Muscle Pain,140209
+296,Colorectal Cance,137366
+297,Vitamin/Mineral Supplementation during Pregnancy/Lactation,137367
+298,"Nausea/Vomiting, Chemotherapy Induced",137368
+299,Women (oxybutynin),137369
+300,Primary Immunodeficiency Syndrome,137370
+301,New Daily Persistent Headache,137371
+302,Pneumococcal Disease Prophylaxis,137372
+303,Burning Mouth Syndrome,137373
+304,Urinary Tract Stones,137374
+305,Pseudobulbar Affect,137375
+306,Eye Redness/Itching,137376
+307,"Deep Vein Thrombosis, First Event",137377
+308,Pulmonary Hypertension,137378
+309,Malaria,140509
+310,Sarcoidosis,140391
+311,Dietary Supplementation,137381
+312,Bulimia,140553
+313,Tendonitis,137383
+314,Nasal Polyps,137384
+315,Hypokalemia,137385
+316,"Anemia, Sickle Cell",137386
+317,Uveitis,137387
+318,Streptococcal Infection,137388
+319,Perimenopausal Symptoms,137389
+320,Asperger Syndrome,137390
+321,Tinea Corporis,137391
+322,Mania,137392
+323,Renal Cell Carcinoma,137393
+324,COPD,137394
+325,Biliary Cirrhosis,137395
+326,Vertig,137396
+327,Reversal of Opioid Sedation,137397
+328,Non-Hodgkin's Lymphoma,140026
+329,"High Cholesterol, Familial Homozygous",137399
+330,Periodic Limb Movement Disorde,137400
+331,Supraventricular Tachycardia,137401
+332,Hypoestrogenism,137402
+333,Juvenile Idiopathic Arthritis,137403
+334,Swine Flu,137404
+335,Giardiasis,137405
+336,Binge Eating Disorde,137406
+337,Tourette's Syndrome,137407
+338,Trichomoniasis,137408
+339,acial Wrinkles,137409
+340,Pulmonary Embolism,137410
+341,"Conjunctivitis, Allergic",137411
+342,Avian Influenza,137412
+343,Hemangioma,137413
+344,Nocturnal Leg Cramps,137414
+345,Thyroid Suppression Test,137415
+346,Muscle Twitching,137416
+347,Pupillary Dilation,137417
+348,Lennox-Gastaut Syndrome,137418
+349,Opiate Adjunct,137419
+350,Postoperative Pain,137420
+351,Candida Urinary Tract Infection,137421
+352,Cerebral Spasticity,137422
+353,Lipodystrophy,137423
+354,Androgenetic Alopecia,137424
+355,Computed Tomography,137425
+356,Mitral Valve Prolapse,137426
+357,Vitamin D Deficiency,140756
+358,"Glaucoma, Open Angle",137428
+359,Endoscopy or Radiology Premedication,137429
+360,Alzheimer's Disease,140762
+361,Gouty Arthritis,137431
+362,Paroxysmal Supraventricular Tachycardia,140130
+363,"Deep Vein Thrombosis, Prophylaxis",137433
+364,Gaucher Disease,137434
+365,Lymphocytic Colitis,137435
+366,Pancreatic Cance,137436
+367,Cystic Fibrosis,141413
+368,Noninfectious Colitis,137438
+369,Nephrocalcinosis,137439
+370,Iron Deficiency Anemia,137440
+371,mulation) (phenylephrine),137441
+372,Hiccups,140431
+373,Bronchospasm Prophylaxis,137443
+374,Chronic Spasticity,137444
+375,min / saxagliptin),137445
+376,Post-Cholecystectomy Diarrhea,137446
+377,Postherpetic Neuralgia,137447
+378,"Insomnia, Stimulant-Associated",137448
+379,"COPD, Acute",137449
+380,Herpes Simplex Dendritic Keratitis,137450
+381,Oophorectomy,137451
+382,Cyclic Vomiting Syndrome,137452
+383,Chronic Lymphocytic Leukemia,140782
+384,"Lyme Disease, Arthritis",137454
+385,Pseudomembranous Colitis,137455
+386,Conjunctivitis,137456
+387,min),137457
+388,Intraocular Hypertension,137458
+389,Aphthous Ulce,137459
+390,"Ulcerative Colitis, Maintenance",137460
+391,Melasma,137461
+392,"Lyme Disease, Neurologic",137462
+393,ge (amlodipine / valsartan),137463
+394,Herpes Zoste,137464
+395,Cervical Dystonia,137465
+396,Labor Induction,137466
+397,Human Papilloma Virus,137467
+398,Chronic Pancreatitis,137468
+399,Polycythemia Vera,137469
+400,Dermatological Disorders,137470
+401,Lewy Body Dementia,137471
+402,amilial Mediterranean Feve,137472
+403,Neurosurgery,137473
+404,Gastroenteritis,137474
+405,Macular Edema,139916
+406,Tinea Pedis,137476
+407,Diagnosis and Investigation,137477
+408,Gas,139838
+409,Neuralgia,137479
+410,Local Anesthesia,137480
+411,Acute Coronary Syndrome,137481
+412,Aspiration Pneumonia,137482
+413,Idiopathic Thrombocytopenic Purpura,137483
+414,"Onychomycosis, Fingernail",137484
+415,Photoaging of the Skin,137485
+416,Premature Lab,137486
+417,Precocious Puberty,137487
+418,Prevention of Bladder infection,137488
+419,Seasonal Affective Disorde,137489
+420,Diabetic Kidney Disease,137490
+421,"Crohn's Disease, Acute",137491
+422,Insulin Resistance Syndrome,137492
+423,Pudendal Neuralgia,137493
+424,Reiter's Syndrome,137494
+425,Amyotrophic Lateral Sclerosis,137495
+426,Body Dysmorphic Disorde,137496
+427,"Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis",137497
+428,Dandruff,139695
+429,Vitamin B12 Deficiency,137499
+430,Bone infection,137500
+431,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",137501
+432,Iritis,137502
+433,Allergic Urticaria,137503
+434,Cardiovascular Risk Reduction,137504
+435,Giant Cell Tumor of Bone,137505
+436,Babesiosis,137506
+437,Secondary Hyperparathyroidism,137507
+438,Hypoparathyroidism,137508
+439,Performance Anxiety,137509
+440,Abortion,140529
+441,Skin Cance,137511
+442,Ovulation Induction,137512
+443,Liver Magnetic Resonance Imaging,137513
+444,Vitamin/Mineral Supplementation and Deficiency,137514
+445,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",137515
+446,Anemia Associated with Chronic Renal Failure,137516
+447,Hyperphosphatemia of Renal Failure,137517
+448,Dissociative Identity Disorde,137518
+449,Anal Fissure and Fistula,137519
+450,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",137520
+451,Scabies,139887
+452,Endometrial Cance,137522
+453,Transient Ischemic Attack,140059
+454,Granuloma Annulare,137524
+455,Traveler's Diarrhea,140058
+456,Candidemia,137526
+457,t Pac with Cyclobenzaprine (cyclobenzaprine),137527
+458,Hypoactive Sexual Desire Disorde,137528
+459,"Epicondylitis, Tennis Elbow",137529
+460,Nightmares,137530
+461,Dientamoeba fragilis,137531
+462,Ventricular Tachycardia,137532
+463,Dumping Syndrome,137533
+464,Myelodysplastic Syndrome,137534
+465,Hypodermoclysis,137535
+466,zen Shoulde,137536
+467,Topical Disinfection,137537
+468,Perioral Dermatitis,137538
+469,Agitation,137539
+470,Intermittent Claudication,137540
+471,Prevention of Osteoporosis,137541
+472,Leukemia,137542
+473,Dermatitis Herpeti,137543
+474,mis,137544
+475,Eosinophilic Esophagitis,137545
+476,"Hyperlipoproteinemia Type IIa, Elevated LDL",137546
+477,Endometrial Hyperplasia,137547
+478,Peptic Ulce,137548
+479,Chronic Myofascial Pain,137549
+480,Enterocolitis,137550
+481,Secondary Cutaneous Bacterial Infections,137551
+482,Syringomyelia,137552
+483,Postoperative Ocular Inflammation,137553
+484,Persistent Depressive Disorde,137554
+485,Otitis Externa,137555
+486,"Organ Transplant, Rejection Prophylaxis",137556
+487,Intermittent Explosive Disorde,137557
+488,Dermatophytosis,137558
+489,Inflammatory Bowel Disease,140106
+490,Porphyria,137560
+491,Anemia,140979
+492,Hyperuricemia Secondary to Chemotherapy,137562
+493,Wolff-Parkinson-White Syndrome,137563
+494,eve,137564
+495,Ectopic Pregnancy,137565
+496,Thyroid Cance,137566
+497,"Tuberculosis, Latent",137567
+498,Nasal Carriage of Staphylococcus aureus,137568
+499,Systemic Candidiasis,137569
+500,Ear Wax Impaction,137570
+501,Hepatocellular Carcinoma,137571
+502,Dyspareunia,137572
+503,Tic Disorde,137573
+504,Head and Neck Cance,137574
+505,Klinefelter Syndrome,137575
+506,Rhinorrhea,137576
+507,Soft Tissue Sarcoma,137577
+508,Diabetic Macular Edema,139910
+509,Menopausal Disorders,137579
+510,Anesthetic Adjunct,137580
+511,Tinea Cruris,137581
+512,tic (mycophenolic acid),137582
+513,Ischemic Stroke,137583
+514,Malignant Glioma,137584
+515,Thrombocythemia,137585
+516,Atrophic Urethritis,137586
+517,Systemic Sclerosis,137587
+518,Macular Degeneration,137588
+519,AIDS Related Wasting,137589
+520,Hemophilia A,141002
+521,Osteolytic Bone Lesions of Multiple Myeloma,137591
+522,Autoimmune Hemolytic Anemia,137592
+523,ailure to Thrive,137593
+524,Strongyloidiasis,137594
+525,Vitamin K Deficiency,137595
+526,Ulcerative Proctitis,137596
+527,Premenstrual Syndrome,137597
+528,Primary Hyperaldosteronism,137598
+529,Lactose Intolerance,137599
+530,Anal Itching,140366
+531,amilial Cold Autoinflammatory Syndrome,137601
+532,Duodenal Ulce,137602
+533,"Tuberculosis, Prophylaxis",137603
+534,Neurosis,137604
+535,Turner's Syndrome,137605
+536,NSAID-Induced Gastric Ulce,137606
+537,CNS Magnetic Resonance Imaging,137607
+538,Atherosclerosis,137608
+539,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,137609
+540,Gastritis/Duodenitis,137610
+541,"Diarrhea, Acute",137611
+542,Costochondritis,137612
+543,Portal Hypertension,137613
+544,Glaucoma/Intraocular Hypertension,137614
+545,Toothache,140136
+546,Benzodiazepine Withdrawal,137616
+547,m Pain Disorde,137617
+548,Esophageal Candidiasis,137618
+549,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,137619
+550,Peripheral Arterial Disease,137620
+551,"Deep Vein Thrombosis, Recurrent Event",137621
+552,"Pseudogout, Prophylaxis",137622
+553,Lichen Planus,137623
+554,CMV Prophylaxis,137624
+555,Neuritis,137625
+556,Typhoid Feve,137626
+557,Tardive Dyskinesia,137627
+558,Ichthyosis,137628
+559,Juvenile Rheumatoid Arthritis,137629
+560,B12 Nutritional Deficiency,137630
+561,Primary Nocturnal Enuresis,137631
+562,Dercum's Disease,137632
+563,Cutaneous Candidiasis,137633
+564,Gingivitis,137634
+565,Q Feve,137635
+566,Hyperekplexia,137636
+567,Niacin Deficiency,137637
+568,Dietary Fiber Supplementation,137638
+569,Nephrotic Syndrome,140112
+570,Pinworm Infection (Enterobius vermicularis),137640
+571,Pancreatic Exocrine Dysfunction,137641
+572,"Nausea/Vomiting, Radiation Induced",137642
+573,Schilling Test,137643
+574,Mild Cognitive Impairment,137644
+575,"Ischemic Stroke, Prophylaxis",137645
+576,"Gonococcal Infection, Uncomplicated",137646
+577,Ovarian Cance,137647
+578,Eyelash Hypotrichosis,137648
+579,Meniere's Disease,137649
+580,Tinea Capitis,137650
+581,Lichen Sclerosus,137651
+582,min / pioglitazone),137652
+583,Renal Transplant,137653
+584,"Gout, Prophylaxis",137654
+585,von Willebrand's Disease,137655
+586,Prevention of Atherothrombotic Events,137656
+587,Small Fiber Neuropathy,137657
+588,min / rosiglitazone),137658
+589,Peyronie's Disease,140720
+590,Autoimmune Hepatitis,137660
+591,llicular Lymphoma,137661
+592,Auditory Processing Disorde,137662
+593,"Herpes Zoster, Prophylaxis",137663
+594,Submental Fullness,137664
+595,Lactation Augmentation,137665
+596,Radionuclide Myocardial Perfusion Study,137666
+597,Prevention of Cardiovascular Disease,137667
+598,Varicella-Zoste,137668
+599,Pelvic Inflammatory Disease,140092
+600,Intraabdominal Infection,137670
+601,Croup,137671
+602,Dermatologic Lesion,137672
+603,"Hyperlipoproteinemia Type IV, Elevated VLDL",137673
+604,Expectoration,137674
+605,Primary Hyperaldosteronism Diagnosis,137675
+606,Abdominal Distension,137676
+607,Salivary Gland Cance,137677
+608,"Pulmonary Embolism, First Event",137678
+609,Postpartum Breast Pain,137679
+610,Postural Orthostatic Tachycardia Syndrome,137680
+611,Pediatric Growth Hormone Deficiency,137681
+612,Hypomagnesemia,137682
+613,ge HCT (amlodipine / hydrochlorothiazide / valsartan),137683
+614,Hairy Cell Leukemia,137684
+615,Histoplasmosis,137685
+616,Hypoglycemia,137686
+617,Brain Tum,137687
+618,Gastrointestinal Stromal Tum,137688
+619,Tetanus,141272
+620,"Breast Cancer, Prevention",137690
+621,ICU Agitation,137691
+622,Women (minoxidil),137692
+623,Peripheral T-cell Lymphoma,141254
+624,Chronic Inflammatory Demyelinating Polyradiculoneuropathy,140339
+625,Pathological Hypersecretory Conditions,137695
+626,Oral and Dental Conditions,137696
+627,Antiphospholipid Syndrome,137697
+628,Ventricular Arrhythmia,137698
+629,Asystole,137699
+630,Wegener's Granulomatosis,137700
+631,Thromboembolic Stroke Prophylaxis,137701
+632,Platelet Aggregation Inhibition,137702
+633,Sleep Paralysis,137703
+634,Rejection Prophylaxis,137704
+635,"Delayed Puberty, Male",137705
+636,Ascariasis,137706
+637,Acute Promyelocytic Leukemia,140483
+638,Bartonellosis,137708
+639,Cyclothymic Disorde,137709
+640,Hypokalemic Periodic Paralysis,137710
+641,Varicose Veins,137711
+642,Mononucleosis,137712
+643,Cachexia,137713
+644,Hyperkalemia,137714
+645,Still's Disease,137715
+646,Dementia,137716
+647,Ocular Rosacea,137717
+648,Hidradenitis Suppurativa,141270
+649,SIADH,137719
+650,Bullous Pemphigoid,137720
+651,Angioedema,137721
+652,Mountain Sickness / Altitude Sickness,137722
+653,Severe Mood Dysregulation,137723
+654,Cutaneous T-cell Lymphoma,137724
+655,Adrenocortical Insufficiency,137725
+656,Myxedema Coma,139867
+657,Small Bowel Bacterial Overgrowth,137727
+658,Sunburn,137728
+659,Transverse Myelitis,137729
+660,Squamous Cell Carcinoma,137730
+661,Parkinsonism,137731
+662,Thyrotoxicosis,137732
+663,"Epididymitis, Sexually Transmitted",137733
+664,Neck Pain,137734
+665,Bleeding Disorde,137735
+666,actor IX Deficiency,137736
+667,Melanoma,137737
+668,Thrombocytopenia,137738
+669,Esophageal Variceal Hemorrhage Prophylaxis,137739
+670,Glioblastoma Multi,137740
+671,Cholera,137741
+672,Anorexia/Feeding Problems,137742
+673,Peritonitis,137743
+674,AV Heart Block,137744
+675,Pe,137745
+676,Wilson's Disease,137746
+677,Nonalcoholic Fatty Liver Disease,137747
+678,Sepsis,137748
+679,Anthrax,141370
+680,Body Imaging,137750
+681,Aggressive Behavi,137751
+682,Hepatic Tum,137752
+683,Ehrlichiosis,137753
+684,Hypopituitarism,137754
+685,Gender Dysphoria,137755
+686,Infectious Diarrhea,141434
+687,Ventricular Fibrillation,140228
+688,Anaphylaxis,137758
+689,Pemphigus,137759
+690,Multiple Endocrine Adenomas,137760
+691,Pre-Exposure Prophylaxis,137761
+692,Postoperative Increased Intraocular Pressure,137762
+693,Pruritus of Partial Biliary Obstruction,137763
+694,Pertussis,137764
+695,Periodontitis,137765
+696,Lymphoma,137766
+697,Hypercalcemia of Malignancy,137767
+698,Pityriasis rubra pilaris,137768
+699,Amebiasis,137769
+700,t Care,137770
+701,Hepatic Encephalopathy,137771
+702,Deep Neck Infection,137772
+703,"Meningitis, Meningococcal",137773
+704,Parkinsonian Trem,137774
+705,Rabies Prophylaxis,137775
+706,Hypotension,137776
+707,Myelofibrosis,140749
+708,cal Segmental Glomerulosclerosis,137778
+709,Gastric Ulcer Maintenance Treatment,137779
+710,Paget's Disease,137780
+711,Infection Prophylaxis,137781
+712,Gastrointestinal Decontamination,137782
+713,Mixed Connective Tissue Disease,137783
+714,Somatoform Pain Disorde,137784
+715,Esophageal Spasm,137785
+716,Campylobacter Gastroenteritis,137786
+717,Hyperphosphatemia,137787
+718,Oligospermia,137788
+719,Wound Cleansing,137789
+720,Euvolemic Hyponatremia,137790
+721,Gallbladder Disease,137791
+722,"Mycobacterium avium-intracellulare, Treatment",137792
+723,Oppositional Defiant Disorde,137793
+724,Legionella Pneumonia,137794
+725,"Breast Cancer, Palliative",137795
+726,Hydrocephalus,137796
+727,"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",137797
+728,Anaplastic Astrocytoma,137798
+729,Dupuytren's contracture,137799
+730,Mumps Prophylaxis,137800
+731,"Skin Disinfection, Preoperative",137801
+732,Hyperbilirubinemia,137802
+733,Meningitis,137803
+734,Corneal Ulce,137804
+735,acial Lipoatrophy,137805
+736,Percutaneous Coronary Intervention,137806
+737,Hepatitis B Prevention,137807
+738,"Tuberculosis, Active",137808
+739,Cerebrovascular Insufficiency,137809
+740,Head Injury,137810
+741,Anti NMDA Receptor Encephalitis,137811
+742,Nonoccupational Exposure,137812
+743,Gonadotropin Inhibition,137813
+744,unctional Gastric Disorde,137814
+745,Chronic Eosinophilic Leukemia,137815
+746,Acetaminophen Overdose,137816
+747,Duodenal Ulcer Prophylaxis,137817
+748,"Paragonimus westermani, Lung Fluke",137818
+749,Alpha-1 Proteinase Inhibitor Deficiency,137819
+750,Cogan's Syndrome,137820
+751,Uterine Bleeding,137821
+752,Stomach Cance,137822
+753,Sporotrichosis,137823
+754,Cluster-Tic Syndrome,137824
+755,Gestational Diabetes,137825
+756,Stress Ulcer Prophylaxis,137826
+757,Reversal of Nondepolarizing Muscle Relaxants,137827
+758,Solid Tumors,137828
+759,mist (,137829
+760,Schnitzler Syndrome,137830
+761,Hypocalcemia,137831
+762,Meningococcal Meningitis Prophylaxis,137832
+763,Nocardiosis,137833
+764,Hemophilia B,137834
+765,Microscopic polyangiitis,137835
+766,"Gonococcal Infection, Disseminated",137836
+767,Neurotic Depression,137837
+768,Keratitis,137838
+769,Hodgkin's Lymphoma,137839
+770,me,137840
+771,STD Prophylaxis,137841
+772,Small Bowel or Pancreatic Fistula,137842
+773,Prevention of Perinatal Group B Streptococcal Disease,137843
+774,Cerebral Edema,137844
+775,Testicular Cance,137845
+776,Short Stature for Age,137846
+777,"Aspergillosis, Aspergilloma",137847
+778,Pemphigoid,137848
+779,Hyperparathyroidism Secondary to Renal Impairment,137849
+780,Ramsay Hunt Syndrome,137850
+781,Cutaneous Larva Migrans,137851
+782,Occipital Neuralgia,137852
+783,Blepharitis,137853
+784,Patent Ductus Arteriosus,137854
+785,Joint Infection,137855
+786,Manscaping Pain,137856
+787,Strabismus,137857
+788,"Organ Transplant, Rejection Reversal",137858
+789,Leukocytoclastic Vasculitis,137859
+790,Coronary Artery Disease,137860
+791,Gastric Cance,137861
+792,ibrocystic Breast Disease,137862
+793,ungal Infection Prophylaxis,137863
+794,Short Stature,137864
+795,Hypercalcemia,137865
+796,Coccidioidomycosis,137866
+797,Cyclitis,137867
+798,"Anemia, Chemotherapy Induced",137868
+799,Upper Limb Spasticity,137869
+800,Diagnostic Bronchograms,137870
+801,Neoplastic Diseases,137871
+802,Mycoplasma Pneumonia,137872
+803,Linear IgA Disease,137873
+804,Subarachnoid Hemorrhage,137874
+805,Myeloproliferative Disorders,137875
+806,ungal Pneumonia,137876
+807,Scleroderma,140839
+808,Zollinger-Ellison Syndrome,140571
+809,Tinea Barbae,137879
+810,Acute Nonlymphocytic Leukemia,137880
+811,Neutropenia,137881
+812,Stuffy Nose,139688
+813,Other,139690
+814,Disease of Ovaries with Cysts,139692
+815,Abnormally Long or Heavy Periods,139694
+816,Cancer of Ovary in Patient with Germline BRCA Mutation,139696
+817,Nerve Pain after Herpes,139698
+818,"Disorder characterized by Stiff, Tender & Painful Muscles",139699
+819,Nerve Pain from Spinal Cord Injury,139700
+820,Repeated Episodes of Anxiety,139701
+821,Diabetic Complication causing Injury to some Body Nerves,139702
+822,Acute Pain Following an Operation,139703
+823,Additional Medication to Treat Partial Seizures,139704
+824,Cushing's Syndrome,139705
+825,Scaly Oily Skin Problem Primarily On Face and Scalp,139706
+826,Runny Nose,139707
+827,Nerve Damage caused by Hydrazine Poisoning,139708
+828,Reversal of Neuromuscular Blockade Induced by Nondepolarizing Drug,139709
+829,Prevent Poisoning by a Toxic War Gas Inhaled or Absorbed by Skin,139711
+830,Presence of Body Lice,139712
+831,Pinworm Infection,139713
+832,Infestation by Roundworms,139714
+833,Active Tuberculosis,139715
+834,Urinary Tract Irritation,139716
+835,Difficult or Painful Urination,139717
+836,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,139718
+837,Inflammation of the Stomach Lining caused by H. Pylori,139719
+838,Skin Disease of the Scalp,139720
+839,Abnormal Bleeding from the Uterus,139721
+840,"""Change of Life"" Signs",139723
+841,Painful Periods,139724
+842,Anxiousness associated with Depression,139725
+843,Mental Disorder with Loss of Normal Personality & Reality,139727
+844,Absence of Menstrual Periods,139728
+845,Obstruction of a Blood Vessel by a Blood Clot,139729
+846,Deep Vein Thrombosis Prevention,139730
+847,High Amount of Triglyceride in the Blood,139731
+848,Deep Vein Thrombosis Prevention in Abdominal Surgery,139732
+849,Deep Vein Thrombosis Prevention in Knee Replacement,139733
+850,Treatment to Prevent a Blood Clot in the Lung,139734
+851,Blood Clot in a Deep Vein,139736
+852,Changes Involving Fatty Deposits in the Blood Vessels,139737
+853,Blood Clots in Deep Veins and in Blood Vessel of the Lung,139738
+854,Blood Clot Prevention Following Percutaneous Coronary Intervention,139739
+855,Combined High Blood Cholesterol and Triglyceride Level,139740
+856,Prevention of Cardiac Ischemia Following Non-Q Wave MI,139741
+857,Ringworm of the Body,139742
+858,Ringworm of Groin Area,139743
+859,Athlete's Foot,139744
+860,Fungal Infection of the Skin with Yellow Patches,139745
+861,Diarrhea Predominant Irritable Colon,139746
+862,Stroke Prevention,139747
+863,Primary Prevention of Heart Attack,139748
+864,Skin Infection due to a Candida Yeast,139749
+865,Treatment to Prevent a Heart Attack,139750
+866,Heterozygous Inherited High Blood Cholesterol,139751
+867,Deep Vein Thrombosis Prevention in Hip Surgery,139752
+868,Prevention of Recurrent Vein Thrombosis in Cancer,139753
+869,Acute Blood Clot in a Blood Vessel Supplying the Lungs,139755
+870,Inflammation of the Eye,139756
+871,Allergic Conjunctivitis,139757
+872,Prevention for Hardening of the Arteries,139758
+873,Slow Progression of Disease of the Arteries of the Heart,139760
+874,Myocardial Reinfarction Prevention,139761
+875,Inflammation of the Eye Following Surgery,139762
+876,Kidney Problem caused by Body Tissue Disease-Scleroderma,139764
+877,Inflammation of the Iris and Ciliary Body of the Eye,139765
+878,Herpes Zoster Infection of the Cornea & Conjunctiva of Eye,139766
+879,Acute Syndrome of the Heart,139768
+880,Weight Loss Management for Overweight Person with BMI 27 to 29 and Weight-Related Comorbidity,139770
+881,Weight Loss Management for an Obese Person,139771
+882,Anxious,139772
+883,Repeated Seizures with Unconsciousness Between Episodes,139773
+884,Kidney Disease from Diabetes,139774
+885,"Mania associated with Bipolar Disorder, Adjunct Treatment",139775
+886,Delirium,139776
+887,High Amount of Fats in the Blood,139777
+888,Unpredictable Severe Constricting Chest Pain,139778
+889,Chronic Trouble Sleeping,139779
+890,Severe Uncontrolled High Blood Pressure,139780
+891,Prevention of Recurrent Atrial Fibrillation,139781
+892,Inflammation of the Nose due to an Allergy,139782
+893,Premenstrual Disorder with a State of Unhappiness,139783
+894,Seasonal Runny Nose,139784
+895,Non-Seasonal Allergic Runny Nose,139785
+896,Prevent Nausea and Vomiting from Cancer Chemotherapy,139786
+897,Sneezing,139787
+898,Itching,139788
+899,Chronic Heart Failure,139789
+900,Nausea and Vomiting caused by Cancer Drugs,139790
+901,Involuntary Quivering,139791
+902,Hives,139792
+903,Tension Headache,139793
+904,Persistent Hives of Unknown Cause,139794
+905,Welt from Pressure on Skin,139795
+906,Psychosis caused by Sudden Alcohol Withdrawal,139796
+907,Symptoms from Alcohol Withdrawal,139797
+908,Post-Menopausal Osteoporosis Prevention,139798
+909,Fungal Disease of the Nails,139799
+910,Abnormal Heart Rhythm,139800
+911,Overactive Thyroid causing Life-Threatening Symptoms,139801
+912,A Feeling of Restlessness with Inability to Sit Still,139802
+913,Ventricular Rate Control in Atrial Fibrillation,139803
+914,Hypertrophic Cardiomyopathy,139804
+915,Low HDL Cholesterol,139805
+916,Diarrhea due to Inflammatory Bowel Disease,139807
+917,Diarrhea caused by Chemotherapy,139808
+918,Chronic Stable Angina,139809
+919,Mitral Valve Prolapse Syndrome,139810
+920,Colon and Rectal Cancer that has Spread to Another Area,139811
+921,Malignant Brain Tumor Glioblastoma,139813
+922,Brain Tumor,139814
+923,Prevention of Bronchospasm with Chronic Bronchitis,139815
+924,Hypertension with Left Ventricular Hypertrophy,139816
+925,High Amount of Potassium in the Blood,139818
+926,Joint Damage causing Pain and Loss of Function,139820
+927,Reddish Nodules Arranged in a Circle On the Skin,139821
+928,Inflammation of Skin caused by an Allergy,139822
+929,Psoriasis of Scalp,139825
+930,Skin Condition,139827
+931,Inflammation of the Sac Surrounding the Joint - Bursitis,139828
+932,Nondiabetic Proteinuric Nephropathy,139830
+933,Rash,139831
+934,Contact Dermatitis,139832
+935,Skin Rash that Becomes Thick & Discolored From Rubbing It,139833
+936,Inflammation of the Tendon,139834
+937,Rheumatic Disease causing Pain & Stiffness in Backbone,139835
+938,Joint Inflammatory Disease in Children and Young Adults,139836
+939,Dryness of the Nose,139837
+940,Struvite Kidney Stones,139839
+941,Manic-Depression,139840
+942,Mania associated with Bipolar Disorder,139841
+943,Additional Medications to Treat Depression,139842
+944,Bipolar Depression,139843
+945,Bipolar Disorder in Remission,139844
+946,Rapid Cycle Manic-Depression,139845
+947,Defective Internal Secretion of Ovaries,139846
+948,Cluster Headache Prevention,139847
+949,Diastolic Heart Failure,139848
+950,Failure of the Left Ventricle of the Heart,139849
+951,Retinal Changes of Eye in a Patient with Diabetes,139850
+952,Recurring Sleep Episodes During the Day,139851
+953,Attention Deficit Disorder with Hyperactivity,139852
+954,Type 2 Diabetes Mellitus,139853
+955,Oily Skin,139854
+956,Dry Eye,139855
+957,Drying and Inflammation of Cornea and Conjunctiva of Eyes,139856
+958,Acne Rosacea,139857
+959,Corn,139858
+960,Minor Skin Wound Pain,139859
+961,Stomach Ulcer,139860
+962,Prevention of Vitamin B12 Deficiency,139861
+963,Inflammation of the Nose,139862
+964,Cancer of the Ovary,139864
+965,Pancreas Organ Failure,139865
+966,Prevention of Transient Ischemic Attacks,139866
+967,Mild Underactive Thyroid,139868
+968,Chronic Difficulty having a Bowel Movement,139869
+969,Serious Decrease in Thyroid Function,139870
+970,T3 Suppression for Thyroid Function Test,139872
+971,Irritable Bowel Syndrome with Constipation,139873
+972,Thyroid Cancer,139874
+973,Decreased Thyroid Function existing from Birth,139875
+974,Increased Triglycerides and Cholesterol,139876
+975,Muscle Spasms due to a Brain Disease,139877
+976,Infection due to Vancomycin-Resistant Enterococcus Faecium,139878
+977,Diabetic with Foot Infection due to a Specific Bacteria,139879
+978,Complicated Skin Infection by Streptococcus Agalactiae,139880
+979,Complicated Skin Infection due to Staphyloccus Aureus Bacteria,139881
+980,Homozygous Inherited High Blood Cholesterol,139882
+981,Simple Goiter,139883
+982,Bacterial Infection caused by Streptococcus pneumoniae,139884
+983,Infection caused by the Bacteria Streptococcus,139885
+984,Bacterial Infection due to Staphylococcus,139886
+985,Administration of Local Anesthetic Drug,139888
+986,Skin Irritation,139890
+987,Mouth Irritation,139891
+988,Local Anesthesia for Urethral Pain,139892
+989,Suppression of the Gag Reflex,139893
+990,Local Anesthesia Injected in Subarachnoid Space of Spine,139894
+991,Presence of Head Lice,139895
+992,Ulcerative Colitis currently Without Symptoms,139896
+993,Ulcerated Colon,139898
+994,Irritable Colon,139899
+995,Ulcer from Stomach Acid,139900
+996,Puberty at an Earlier Age than would be expected,139901
+997,Advanced Form of Prostate Cancer,139902
+998,Low Red Blood Count due to Uterine Fibroids,139903
+999,Pompe Disease,139904
+1000,Wide-Angle Glaucoma,139905
+1001,Red Eyes,139906
+1002,Increased Pressure in the Eye,139907
+1003,Postcoital Contraception,139908
+1004,Iodine Deficiency,139909
+1005,Narcotic Addiction,139911
+1006,Symptoms from Stopping Treatment with Opioid Drugs,139912
+1007,Blockage of Branch Blood Vein in Eye's Retina with Edema,139913
+1008,Age-Related Wet Macular Degeneration,139914
+1009,Formation of New Blood Vessels in the Choroid of the Eye,139915
+1010,Emptying of the Bowel,139917
+1011,Incomplete or Infrequent Bowel Movements,139918
+1012,Breakthrough Cancer Pain in Opioid-Tolerant Patient,139919
+1013,Increased Number of Eyelashes,139920
+1014,Reduced Eyelash Growth,139921
+1015,Visible Water Retention,139922
+1016,Accumulation of Fluid Resulting from Chronic Heart Failure,139923
+1017,"Hormone Receptor Positive, HER2 Positive Metastatic Breast Cancer",139924
+1018,HER2 Positive Breast Cancer,139925
+1019,Diabetes,139926
+1020,Type 1 Diabetes Mellitus,139927
+1021,Fluid in the Lungs due to Chronic Heart Failure,139928
+1022,High Amount of Phosphate in the Blood,139929
+1023,High Blood Sugar,139930
+1024,Ascites,139931
+1025,Condition in which Stomach Acid is Pushed Into the Esophagus,139932
+1026,Heartburn,139933
+1027,Conditions of Excess Stomach Acid Secretion,139934
+1028,Excessive Production of Stomach Acid,139935
+1029,Medication Treatment for Healing Erosive Esophagitis,139936
+1030,Inflammation of the Esophagus with Erosion,139937
+1031,"Bleeding from Stomach, Esophagus or Duodenum",139938
+1032,Stomach Ulcer from Aspirin/Ibuprofen-Like Drugs Prevention,139939
+1033,Having a Rapid Heart Action - Supraventricular Tachycardia,139940
+1034,A Type of Fast Heartbeat - Paroxysmal Atrial Tachycardia,139941
+1035,Chronic Heart Failure Not Suddenly Currently Controlled by Medication,139942
+1036,High Amount of Calcium in the Blood,139943
+1037,Epileptic Seizure,139944
+1038,Simple Partial Seizures,139945
+1039,Convulsive Seizures,139946
+1040,HIV,138141
+1041,Fungal Infection of Toenails,139947
+1042,Fungal Infection of Fingernails - Onychomycosis,139948
+1043,Chronic Fungal Infection of Skin,139949
+1044,Fit,139950
+1045,Ringworm of Scalp,139951
+1046,Epilepsy of the Lennox Gastaut Syndrome,139952
+1047,High Amount of Ammonium in the Blood,139953
+1048,Impaired Brain Function due to Liver Disease,139954
+1049,Inability of Body to Handle Lactose or Milk Sugar,139955
+1050,Medication to Aid Study of the Blood Flow in the Heart,139956
+1051,Red Patches from Sun Exposure on the Face or Scalp,139957
+1052,Skin Lesions that are Not Thick due to Sun Exposure,139958
+1053,Increased Production of Saliva,139959
+1054,Enlarged Thyroid Gland,139960
+1055,A Progressive Disease of the Thyroid Gland,139961
+1056,Problems with Bladder Control,139962
+1057,Panic Disorder,139964
+1058,Major Depressive Disorder,139965
+1059,Obsessive Compulsive Disorder,139966
+1060,Posttraumatic Stress Syndrome,139967
+1061,Additional Treatment for Thyroid Cancer,139968
+1062, ,138164
+1063,Additional Medications for Treating Pheochromocytoma,139971
+1064,Increased amount of Homocysteine in the Blood,139972
+1065,Severely Low Blood Pressure,139973
+1066,Sudden Drop in Blood Pressure,139974
+1067,Treatment To Prevent Vitamin Deficiency,139975
+1068,Lack in Vitamins,139976
+1069,Bacterial Pneumonia caused by Staphylococcus,139977
+1070,Infection of Urinary Tract with Complications,139978
+1071,High Blood Levels of Methotrexate,139979
+1072,Urinary Tract Infection due to E. Coli Bacteria,139980
+1073,Bacterial Urinary Tract Infection,139981
+1074,Bacterial Infection of Kidney due to E. Coli Organism,139982
+1075,Complicated Skin Infection,139983
+1076,Urinary Tract Infection caused by Klebsiella Bacteria,139984
+1077,Bacterial Pneumonia caused by Streptococcus pneumoniae,139985
+1078,Bacterial Pneumonia caused by Haemophilus Influenzae,139986
+1079,Bacterial Infection with Bronchitis,139987
+1080,Pneumonia caused by Bacteria,139988
+1081,Acute Inflammation of the Maxillary Sinus,139989
+1082,Inadequate Folic Acid,139990
+1083,infection caused by bacteria,139991
+1084,Bacterial Infection with Chronic Bronchitis,139992
+1085,Bacterial Stomach or Intestine Infection caused by Anthrax,139993
+1086,Bronchitis caused by the Bacteria Staphylococcus Aureus,139994
+1087,Bronchitis caused by the Bacteria Haemophilus Influenzae,139995
+1088,Acute Maxillary Sinus H. Influenzae Bacteria Infection,139996
+1089,Bronchitis caused by Haemophilus Parainfluenzae Bacteria,139997
+1090,Acute Maxillary Sinus S. Pneumoniae Bacteria Infection,139998
+1091,Acute Maxillary Sinus M. Catarrhalis Bacteria Infection,139999
+1092,Bacterial Infection of the Kidney and Renal Pelvis,140000
+1093,Bronchitis caused by the Bacteria Streptococcus Pneumoniae,140001
+1094,Bacterial Pneumonia caused by Streptococcus,140002
+1095,Carnitine Deficiency,140003
+1096,Treatment to Prevent Traveler's Diarrhea,140004
+1097,Bronchitis caused by the Bacteria Moraxella Catarrhalis,140005
+1098,TB involving the Lungs,140006
+1099,Chronic Infection of the Prostate due to Staphylococcus epidermidis,140007
+1100,Inability to have an Erection,140008
+1101,Skin Infection,140009
+1102,Additional Medication for Tonic-Clonic Epilepsy,140010
+1103,Additional Medication for Myoclonic Epilepsy,140011
+1104,Diabetes Mellitus with Severe Insulin Resistance,140012
+1105,Infection of the Urinary Tract caused by Proteus Bacteria,140013
+1106,A Condition of Bladder Dysfunction from Nerve Disorder,140014
+1107,Bronchospasm,140015
+1108,Asthma Attack,140016
+1109,Bacterial Pneumonia caused by Klebsiella,140017
+1110,Chronic Infection of the Prostate due to E. coli,140018
+1111,Staphylococcus Saprophyticus Infection of Urinary Tract,140019
+1112,Prevention of Plague Following Exposure to Plague,140020
+1113,Infection of the Urinary Tract caused by Enterococcus,140021
+1114,Pneumonia caused by Mycoplasma Pneumoniae,140022
+1115,Female Problems Causing Trouble in Getting Pregnant,140023
+1116,Neutrophils Decreased by Medication,140024
+1117,Chronic Lymphoid Leukemia,140025
+1118,Destruction of Red Blood Cells by Body's Own Antibodies,140027
+1119,Waldenstrom's Macroglobulinemia,140028
+1120,Hormone Receptor Positive Postmenopausal Early Breast Cancer,140029
+1121,Infertility associated with the Lack of Ovulation,140030
+1122,Hormone Receptor Positive Breast Cancer,140031
+1123,Hormone Receptor Positive Postmenopausal Early Breast Cancer After Adjuvant Tamoxifen,140032
+1124,Breast Cancer that has Spread to Another Part of the Body,140033
+1125,Stimulation of Ovarian Function,140034
+1126,Postmenopausal Advanced Breast Cancer Post-Antiestrogen Therapy,140035
+1127,Pulmonary Arterial Hypertension,140036
+1128,Hormone Receptor Positive Postmenopausal Advanced Breast Cancer,140037
+1129,Differentiated Thyroid Cancer,140038
+1130,Liver Cell Cancer,140039
+1131,Cancer Involving the Kidney Cells,140040
+1132,Pneumonia caused by the Bacteria Anthrax,140041
+1133,Relapsing Form of Multiple Sclerosis,140043
+1134,Skin Infection due to Staphylococcus Aureus Bacteria,140044
+1135,Chronic Hepatitis C,140045
+1136,Chronic Infection of Genotype 4 Hepatitis C Virus,140046
+1137,Complicated Skin Infection due to Proteus Bacteria,140047
+1138,Common Wart,140048
+1139,Blood Clot in Lung,140049
+1140,Severe Heart Failure,140050
+1141,Blood Clot,140051
+1142,Abnormal Increase in Ability of Blood to Clot,140052
+1143,Blood Clot caused by Artificial Heart Valve,140053
+1144,Treatment to Prevent Blood Clots in Chronic Atrial Fibrillation,140054
+1145,Heart Failure with Paroxysmal Atrial Fibrillation,140055
+1146,Ear Congestion,140056
+1147,Flu-Like Symptoms,140057
+1148,Prevention for a Blood Clot going to the Brain,140060
+1149,Pneumonia caused by Gram-Negative Bacteria,140061
+1150,Sensation of Spinning or Whirling,140062
+1151,Treatment to Prevent Nausea and Vomiting,140063
+1152,Pneumonia due to Methicillin-Sensitive Staphylococcus Aureus Acquired in Hospital,140065
+1153,Collagenous Colitis,140066
+1154,Psoriasis associated with Arthritis,140067
+1155,Pneumonia caused by the Bacteria Pseudomonas Aeruginosa,140069
+1156,Diabetic Foot Infection,140070
+1157,Chlamydia Trachomatis Infection of Female Pelvic Organs,140072
+1158,Severe Sinusitis caused by Haemophilus Influenzae,140073
+1159,Infection of the Urethra caused by Chlamydia Trachomatis,140074
+1160,Middle Ear Infection,140075
+1161,AIDS with Toxoplasmosis,140076
+1162,Strep Throat and Tonsillitis,140077
+1163,Severe Episode of Chronic Bronchitis due to H. Flu,140078
+1164,Severe Sinusitis caused by Streptococcus Pneumoniae,140079
+1165,Intestinal Infection due to Campylobacter,140080
+1166,Mycobacterium Avium Bacteria Infection,140081
+1167,Whooping Cough,140082
+1168,Infection of the Middle Ear by S. Pneumoniae Bacteria,140083
+1169,Infection of the Middle Ear by H. Influenzae Bacteria,140084
+1170,Acute Gonorrhea of the Urethra,140085
+1171,Chlamydia Coinfection with Rectal Gonorrhea,140086
+1172,Prevention of Mycobacterium Avium Complex Disease,140087
+1173,Skin Infection due to Streptococcus Pyogenes Bacteria,140088
+1174,Severe Episode of Chronic Bronchitis by M. Catarrhalis,140089
+1175,Bacterial Infection of Cervix due to Chlamydia Trachomatis,140090
+1176,Severe Sinusitis caused by Moraxella Catarrhalis,140091
+1177,Chronic Infection of the Prostate due to Enterococcus faecalis,140093
+1178,Hospital-Acquired Pseudomonas Aeruginosa Pneumonia Treated with Multiple Drugs,140094
+1179,Treatment to Prevent Bacterial Infection of a Heart Valve,140095
+1180,Pneumonia due to the Bacteria Haemophilus Parainfluenzae,140096
+1181,Chlamydia Coinfection with Gonorrhea of the Throat,140097
+1182,Severe Episode of Chronic Bronchitis due to Streptococcus Pneumoniae,140098
+1183,Infection of the Middle Ear caused by Streptococcus,140099
+1184,Middle Ear Infection caused by Moraxella Catarrhalis,140100
+1185,Bacterial Pneumonia caused by Staphylococcus Aureus,140101
+1186,Vasomotor Rhinitis,140102
+1187,Pink Eye from Bacterial Infection,140103
+1188,Infection of Female Pelvic Organs caused by Klebsiella,140104
+1189,Liver Inflammation caused by Body's Own Immune Response,140105
+1190,Prevention of Lung Transplant Rejection,140107
+1191,Inflammation of Skin and Muscles All Over the Body,140109
+1192,Bone Marrow Disorders Occurring Before Leukemia,140110
+1193,Blistering Skin Diseases,140111
+1194,Prevent Kidney Transplant Rejection,140113
+1195,Inflammation of Multiple Voluntary Muscles,140114
+1196,Thrush,140116
+1197,"Candida Fungus Infection of Mouth, Skin, Nails or Vagina",140117
+1198,Stomach and Intestinal Infection caused by the Fungus Candida,140118
+1199,Severe Low Platelet Count in Unresponsive Chronic ITP,140119
+1200,Treatment for Prevention of Disseminated Candidiasis,140120
+1201,Prevention of Invasive Pulmonary Aspergillosis,140121
+1202,Diabetic Ketoacidosis,140122
+1203,Test Performed to Diagnose Growth Hormone Problems,140123
+1204,An Insufficiency in Ovulation,140124
+1205,Anemia from Inadequate Iron,140125
+1206,Type of Angina Where Chest Pain Occurs at Rest,140126
+1207,Heart Ventricle Rhythm Problem,140127
+1208,Atrial Fibrillation Electrically Shocked to Normal Rhythm,140128
+1209,Feeling Dizzy Upon Standing from Blood Pressure Drop,140129
+1210,Abnormal Uterine Bleeding caused by Imbalance of Hormones,140131
+1211,Absence of Menstrual Periods in Woman Who Has Had Them,140132
+1212,Growth Hormone Deficiency Dwarfism,140133
+1213,Growth Hormone Deficiency in an Adult,140134
+1214,Sinus Headache,140135
+1215,Backache,140137
+1216,Urination During the Night,140138
+1217,Stop Smoking,140139
+1218,Headache caused by Disorder of Cranial Blood Vessels,140140
+1219,Migraine Headache,140141
+1220,Drowsiness,140142
+1221,Low Energy,140143
+1222,Absence of Breathing in the Newborn,140144
+1223,Nicotine Addiction,140145
+1224,Sleepiness Due To Shift Work Sleep Disorder,140146
+1225,Sleepiness Due To Obstructive Sleep Apnea,140147
+1226,Psychosis associated with Parkinson's Disease,140148
+1227,Dry Mouth,140149
+1228,Uncontrolled Emotions related to Neurologic Disease,140150
+1229,Skin Discoloration,140151
+1230,Severe Pain,140153
+1231,Minor Skin Infection caused by Bacteria,140154
+1232,Essential Tremor,140155
+1233,Inflammation of Uvea of the Eye not caused by Infection,140156
+1234,Blockage of Central Blood Vein in Eye's Retina with Edema,140157
+1235,Inadequate Vitamin B12,140158
+1236,Abnormally Increased Pressure in the Veins of the Liver,140159
+1237,Prevent Bleeding Varicose Vein in the Esophagus,140160
+1238,Pain Originating From a Nerve,140161
+1239,Prevention of Ventricular Arrhythmia due to Congenital Long QT Syndrome,140162
+1240,Extreme Discomfort in Calves when Sitting or Lying Down,140163
+1241,Habit of Drinking Too Much Alcohol,140164
+1242,Hemorrhage Following Delivery of Baby,140165
+1243,Overactive Bladder,140166
+1244,Needing to Urinate Immediately,140167
+1245,Urine Leakage When there is a Strong Desire to Void,140168
+1246,Frequent Urination,140169
+1247,Severe Pain with Opioid Tolerance,140170
+1248,Chronic Pain with Narcotic Drug Tolerance,140171
+1249,Anemia due to Depressed Bone Marrow,140172
+1250,Severe Chronic Pain in Opioid-Tolerant Pediatric Patient (11 Years of Age and Older),140173
+1251,Severe Psoriasis that is Resistant to Treatment,140174
+1252,Facial Nerve Pain,140175
+1253,Simple Seizure,140176
+1254,neurotrophic keratitis,140178
+1255,Failure to Grow,140179
+1256,Inherited Disorder of Continuing Episodes of Swelling,140180
+1257,asthma with elevated level of eosinophils,140181
+1258,Allergic Asthma that is Resistant to Treatment,140182
+1259,Metabolic Process Which Breaks Down Substances in the Body,140183
+1260,Blood Infection caused by Staphylococcus Aureus Bacteria,140184
+1261,Infection of Artificial Heart Valve due to Staphylococcus,140185
+1262,Lymph Node Positive Colon Cancer,140186
+1263,Cancer of Large Intestine,140187
+1264,Cancer of the Pancreas,140188
+1265,Infection of Bone,140189
+1266,Non-Small Cell Lung Cancer,140190
+1267,Cancer of the Uterus,140191
+1268,Suddenly Serious Symptoms of Heart Failure,140192
+1269,Deficient Activity of the Testis,140193
+1270,Deficiency of a Substance that Promotes Masculinization,140194
+1271,Deficiency of Luteinizing Hormone-Releasing Hormone,140195
+1272,Primary Testicular Failure due to Inflammation of Testis,140196
+1273,Pituitary Hormone Deficiency,140197
+1274,Low Blood Calcium in Person with Hypoparathyroidism,140198
+1275,Pregnancy,140199
+1276,Prevention of Fetal Neural Tube Defects when Pregnant,140200
+1277,Multiple Sclerosis Symptoms Return then Become Less Severe,140201
+1278,Allergic Rhinitis Prevention,140202
+1279,Chronic Inflammation of the Nose Not due to Allergies,140203
+1280,Infection of the Lining of the Eye caused by a Fungus,140204
+1281,Fungal Infection of the Cornea of the Eye,140205
+1282,Anemia caused by Vitamin B12 Deficiency-Pernicious Anemia,140206
+1283,Regional Anesthesia for Post-Operative Pain,140207
+1284,Reaction due to an Allergy,140208
+1285,Rheumatoid Arthritis and High Risk of Developing Gastric Ulcers,140210
+1286,Osteoarthritis and High Risk of Developing Gastric Ulcers,140211
+1287,Mild Pain associated with Arthritis,140212
+1288,Head Pain,140213
+1289,Fever,140214
+1290,Minor Musculoskeletal Injury,140215
+1291,Inflammation of the Covering of the Tendon,140216
+1292,Inflammation of the Lining of a Joint,140217
+1293,Eye Itching,140218
+1294,Moderate to Severe Alzheimer's Type Dementia,140219
+1295,Adjunct Treatment of Obesity in a Comprehensive Weight Reduction Regimen,140220
+1296,Toxic Amount of Narcotics in the Body,140221
+1297,Decrease in Rate & Depth of Breathing due to Opioid Drug,140222
+1298,Prevention of Opiate Drug Abuse,140223
+1299,Opiate Pain Medication causing Severe Constipation,140224
+1300,Arthritis,140225
+1301,Severe Infection caused by Staphylococcal Bacteria,140226
+1302,Infection of a Joint caused by Staphylococcus Aureus,140227
+1303,Thyroid Cancer that has Spread to Another Part of Body,140229
+1304,Postoperative Pain in Eye,140230
+1305,Severe Diarrhea,140231
+1306,Prevent Decreased White Blood Cell Count from Cancer Chemotherapy,140232
+1307,Severe Chronic Decrease of Neutrophils in the Blood,140233
+1308,Decrease of Neutrophils in the Blood from Cancer Chemotherapy,140234
+1309,A Mother who is Producing Milk and Breastfeeding,140235
+1310,High Eye Pressure or Glaucoma that May Worsen without Treatment,140236
+1311,Fungal Infection of Skin,140237
+1312,Metastatic Malignant Melanoma,140238
+1313,Angina Pectoris Prevention,140239
+1314,Anal Fissure,140240
+1315,Skin Infection due to a Bacteria,140241
+1316,Outer Ear Inflammation caused by Allergy or Infection,140242
+1317,Chronic Middle Ear Inflammation with Discharge of Pus,140243
+1318,Failure of a Blood Vessel of the Heart to Close at Birth,140244
+1319,Bacterial Infection of the Eyelid,140245
+1320,Inflammation of Eyelid Edges and the Lining of the Eye,140246
+1321,Infection Confined to the Surface of the Eye,140247
+1322,Preparation of Bowel for Surgical Procedure,140248
+1323,Urinary Tract Infection Prevention,140249
+1324,Bladder Infection caused by Enterobacter,140250
+1325,Urinary Tract Infection caused by Staphylococcus Aureus,140251
+1326,Infection that causes Diarrhea - Giardiasis,140252
+1327,idiopathic pulmonary fibrosis,140253
+1328,Lung Fibrosis,140254
+1329,Hemorrhage in the Subarachnoid Space of the Brain,140255
+1330,Skeletal Muscle Relaxation for Tube Insertion Into Trachea,140256
+1331,Cancer of Prostate that has Spread to Other Part of Body,140257
+1332,Chronic Phase Chronic Myeloid Leukemia,140258
+1333,Type of Leukemia - Chronic Myelogenous Leukemia,140259
+1334,Philadelphia Chromosome Positive Chronic Myelocytic Leukemia,140260
+1335,PCP Prophylaxis,140261
+1336,Prevention of Cardiac Transplant Rejection,140262
+1337,"Occasional Numbness, Prickling, or Tingling of Fingers and Toes",140263
+1338,Early Labor,140264
+1339,Symptoms because a person has Stopped Smoking,140265
+1340,Lack in Minerals,140266
+1341,Deficiency of the Vitamin Niacin,140267
+1342,Problems Getting Pregnant,140268
+1343,Induction of Ovarian Follicle Maturation,140269
+1344,Chronic Joint Inflammatory Disease in Children and Young Adults of Unknown Cause,140270
+1345,Additional Agent Used During Echocardiography Imaging,140271
+1346,X-Ray of Blood Vessels,140272
+1347,X-Rays Done for Diagnostic Purposes,140273
+1348,Prevention of Vitamin D Deficiency,140274
+1349,MRI Scan,140275
+1350,malignant tumor or cancer,140276
+1351,Small Cell Cancer of the Lung,140277
+1352,Squamous Cell Lung Cancer,140278
+1353,Osteoarthritis of the Knee,140279
+1354,Additional Local Anesthesia,140281
+1355,Anxiety due to Heart Disease with Difficulty Breathing,140282
+1356,Pain associated with Arthritis,140283
+1357,Overweight,140284
+1358,Cystic Fibrosis with Homozygous F508del Genetic Mutation in CFTR Gene,140285
+1359,Weight Loss Management for Overweight or Obese Person,140286
+1360,Hereditary Tyrosinemia Type I,140287
+1361,Candidiasis Fungal Infection of the Oropharynx,140288
+1362,Sore Mouth due to Dentures or Poor Oral Hygiene,140289
+1363,Infiltration of White Blood Cells into the Lungs,140292
+1364,Tourette's,140293
+1365,Severe Difficult to Treat Nodular Rosacea,140294
+1366,Calcium Oxalate Kidney Stones,140295
+1367,Painful Sexual Intercourse due to Menopause,140296
+1368,Vaginal Inflammation due to Loss of Hormone Stimulation,140297
+1369,Moderate to Severe Plaque Psoriasis,140298
+1370,Lennox-Gastaut Syndrome Treatment Adjunct,140299
+1371,Treatment to Prevent Mineral Deficiency,140300
+1372,Canker Sore,140301
+1373,The Flu,140302
+1374,Influenza Prevention,140303
+1375,Nausea and Vomiting,140304
+1376,Excessive Vomiting in Pregnancy,140305
+1377,Prevent Radiation-Induced Nausea and Vomiting,140306
+1378,Prevent Nausea and Vomiting After Surgery,140307
+1379,Low Amount of Calcium in the Blood,140308
+1380,Twisting Neck Spasms,140309
+1381,Chronic Infection of Genotype 1 Hepatitis C Virus,140310
+1382,Skin Inflammation,140311
+1383,Coin Shaped Rash,140312
+1384,Method of X-Raying the Spinal Canal Using Dye,140313
+1385,Examination of the Bile Ducts and Pancreas,140314
+1386,CT Scan of the Brain,140315
+1387,"X-Ray of the Kidneys, Ureters or Bladder",140316
+1388,Severe Inflammation of the Eye,140317
+1389,Dilated Pupils During Eye Surgery,140318
+1390,Treatment to Prevent Heartburn,140319
+1391,Stress Ulcer Prevention,140320
+1392,Ulcer of the Duodenum,140321
+1393,Stomach Ulcer from Aspirin or Ibuprofen-Like Drugs,140322
+1394,Increased Stomach Acid from Systemic Mastocytosis,140323
+1395,Condition of Increased Mast Cells,140324
+1396,Symptom in the Eye Associated with Allergic Rhinitis,140325
+1397,Bronchospasm Prevention with COPD,140326
+1398,Agitation associated with Schizophrenia,140327
+1399,Agitation associated with Bipolar Mania,140328
+1400,Bipolar I Disorder with Most Recent Episode Mixed,140329
+1401,Basal Cell Carcinoma of the Skin,140330
+1402,allergic rhinitis due to house dust mite,140331
+1403,Chylothorax,140332
+1404,Carcinoid Syndrome,140333
+1405,An Abnormal Connection Between the Stomach and Intestine,140334
+1406,Syndrome After Rapid Passage of Food Into Small Intestine,140335
+1407,Absence of Gamma Globulins in the Blood,140336
+1408,Low Platelet Count and Bleeding from Immune Response,140337
+1409,Common Variable Agammaglobulinemia,140338
+1410,Primary Immune Deficiency Disorder,140340
+1411,Rare Progressive Liver Disease - Primary Biliary Cirrhosis,140341
+1412,primary progressive multiple sclerosis,140342
+1413,Acute Outer Ear Bacterial Infection due to Staphylococcus Aureus,140343
+1414,Chronic Inflammation of Middle Ear with Discharge of Pus,140344
+1415,Additional Medications to Treat Pain,140345
+1416,Inflammation of the Urethra Not due to Gonorrhea,140347
+1417,Progressive Chronic Lymphocytic Leukemia,140348
+1418,Acute Bacterial Infection of the Sinuses,140349
+1419,Bacterial Pneumoniae caused by Klebsiella Pneumoniae,140350
+1420,Ulcer of the Cornea of the Eye with Bacterial Infection,140351
+1421,Eye infection Caused by Bacteria,140352
+1422,Prevention of Motion Sickness,140353
+1423,Additional Agent to Induce General Anesthesia,140354
+1424,Fluid in the Lungs,140355
+1425,Drug Withdrawal Syndrome in Newborn Infant,140356
+1426,Calming of Intubated Patient by Administration of Sedative,140357
+1427,Asthma Prevention,140358
+1428,Allergic Asthma,140359
+1429,Late Onset Asthma,140360
+1430,Exercise-Induced Bronchospasm Prevention,140361
+1431,Controller Medication for Asthma,140362
+1432,Infection due to unusual Mycobacteria,140363
+1433,Yeast Infection of Vagina and Vulva,140365
+1434,Severe Chronic Obstructed Lung Disease,140367
+1435,Excessive Hairiness,140368
+1436,Fluid Accumulation in Cornea of the Eye causing Swelling,140369
+1437,Ear Wax that has Hardened and May Cause Blockage,140370
+1438,Skin Wound Infection due to Streptococcus Pyogenes Bacteria,140371
+1439,Infection of the Skin caused by Staphylococcus Aureus,140372
+1440,Type of Skin Infection - Impetigo,140373
+1441,Methicillin-Resistant Staphylococcus Aureus Bacteria in Nose,140374
+1442,A Severe Skin Infection - Ecthyma,140375
+1443,Burn,140376
+1444,Presence of Boils On the Skin,140378
+1445,Skin Ulcer,140379
+1446,Inflammation of a Hair Follicle,140380
+1447,Anemia From Inadequate Folic Acid,140381
+1448,Paroxysmal Atrial Fibrillation,140382
+1449,Inflammation of the Cornea of the Eye due to Bacteria,140383
+1450,Severe Difficult to Treat Nodular Acne,140384
+1451,Excessive Involuntary Trembling,140385
+1452,Tonic-Clonic Epilepsy,140386
+1453,CD33 positive acute myeloid leukemia,140387
+1454,Type of Leukemia - Acute Myeloid Leukemia,140388
+1455,Dilated Pupils Before or After Surgery,140389
+1456,Dilated Pupil,140390
+1457,Prevention of Liver Transplant Rejection,140392
+1458,Prevent of Transplant Rejection,140393
+1459,Diffuse Proliferative Lupus Nephritis-A Kidney Disease,140394
+1460,Candidiasis Yeast Infection that Spreads Throughout Body,140395
+1461,Prevention of Type 2 Diabetes Mellitus,140396
+1462,Tumor of Adrenal Gland Causing High Blood Pressure,140397
+1463,Vaginosis caused by Bacteria,140398
+1464,Infection caused by the Bacteria Anaerobes,140399
+1465,infection,140400
+1466,Peptic Ulcer due to Bacteria Helicobacter Pylori,140402
+1467,Infection Within the Abdomen,140403
+1468,Infection Around a Tooth,140404
+1469,Bacteroides Infection Following Vaginal Cuff Surgery,140405
+1470,Infection of a Woman's Reproductive Organs,140406
+1471,Clostridium Difficile Bacteria Related Colitis,140407
+1472,Rapid Irregular Heart Beat - Ectopic Atrial Tachycardia,140408
+1473,Heart Rate Between 100 and 130 Beats Per Minute,140409
+1474,Blood Infection caused by the Bacteria Bacteroides,140410
+1475,Infection caused by Trichomoniasis Protozoa,140411
+1476,Sepsis Caused by Bacteria,140412
+1477,Prevention of Perioperative Infection,140413
+1478,Abscess Within the Abdomen caused by Anaerobic Bacteria,140414
+1479,Bacterial Blood Infection caused by Clostridium,140415
+1480,Severe Intestinal Infection due to Entamoeba Histolytica,140416
+1481,Infection of Abdominal Cavity Lining due to Clostridium,140417
+1482,Infection Within the Abdomen caused by Clostridium Bacteria,140418
+1483,Infection Following Vaginal Cuff Surgery,140419
+1484,Diabetes During Pregnancy,140420
+1485,Infection of Lining of the Uterus caused by Bacteroides,140421
+1486,Pneumonia caused by the Bacteria Bacteroides,140422
+1487,Infection caused by Bacteroides Fragilis Bacteria,140423
+1488,Sexual Transmitted Disease Exposure from Sexual Assault,140424
+1489,Infection of a Joint,140425
+1490,Bone Infection caused by Bacteroides,140426
+1491,Recurrent Persistent Inflammation of the Urethra,140427
+1492,Rapid Onset of an Intestinal Infection due to Amebae,140428
+1493,Infection of Abdominal Cavity Lining due to Bacteroides,140429
+1494,Stomach Muscle Paralysis and Decreased Function,140430
+1495,Stomach Muscle Paralysis and Decreased Function from Diabetes,140432
+1496,Feel Like Throwing Up,140433
+1497,Throwing Up,140435
+1498,Joint Disease which may include Attacks of Acute Arthritis,140436
+1499,Obstructive Pulmonary Disease,140437
+1500,"Muscle Pain and Stiffness in Shoulder, Neck and Pelvis",140438
+1501,Inflammation of Several Cartilages of the Body,140439
+1502,Cognitive Impairment following Traumatic Brain Injury,140440
+1503,Any Disease Following Trauma Involving Joint Cartilage,140441
+1504,Inflammation of the Joints due to Gout,140442
+1505,Thyroid Gland Inflammation,140443
+1506,Allergic Reaction caused by a Drug,140444
+1507,Inflammation of Lung from Inhaling Something Irritating,140445
+1508,Disease in which Body has Immune Response Against Itself,140446
+1509,Body's Rejection of a Transplanted Organ,140447
+1510,Muscle or Bone Disorder,140448
+1511,Disease causing Arthritis & Urethral & Eyelid Inflammation,140449
+1512,Inflammation of the Elbow and Surrounding Tissue,140450
+1513,Disorder of the Connective Tissue,140451
+1514,Prevention of Post Cardio-Thoracic Surgery Atrial Fibrillation,140452
+1515,Giant Hives,140453
+1516,Skin Rash with Sloughing,140454
+1517,Joint Capsule Membrane Inflammation of a Diseased Joint,140455
+1518,Inflammation of the Covering of the Heart or Pericardium,140456
+1519,Presence of Polyps in the Nose,140457
+1520,Eye Disorder,140458
+1521,Failure of Small Intestines to Digest and Absorb Food,140459
+1522,Inflammation of the Artery in the Temple Area,140460
+1523,Decreased Function of the Adrenal Gland,140461
+1524,Group of Skin Disorders that Resemble Blisters,140462
+1525,Inflammation of the Heart,140463
+1526,Condition caused by Excess Secretion of Male Hormones,140464
+1527,Chronic Inflammatory Skin Disease Marked by Blisters,140465
+1528,Methemoglobinemia,140466
+1529,Hemorrhage Following Abortion,140467
+1530,Generalized Lipodystrophy,140468
+1531,Condition Where Part of the Skin Loses Pigment,140469
+1532,Pregnancy Located Outside of Womb; Often in Fallopian Tube,140470
+1533,Vasculitis,140471
+1534,Osteosarcoma that has Not Spread Outside the Bone,140472
+1535,Type of Leukemia - Acute Lymphocytic Leukemia,140473
+1536,Additional Medication for Tetanus,140474
+1537,Incomplete Abortion,140475
+1538,Increased Eye Pressure caused by Another Disease,140476
+1539,Closed Angle Glaucoma,140477
+1540,Diagnostic Test for Asthma,140478
+1541,Prevention of Bladder Irritation and Bleeding due to Chemotherapy,140479
+1542,Inflammation of the Sigmoid Colon and the Rectum,140480
+1543,Ulceration of the Rectum,140481
+1544,Deficiency of Biotin a Component of the Vitamin B Complex,140482
+1545,A type of Parasitic Infection - Babesiosis,140484
+1546,Pneumonia caused by Pneumocystis Jirovecii Organism,140485
+1547,Prevention of Toxoplasmosis,140486
+1548,Injection to cause Local Loss of Feeling or Numbness,140487
+1549,Additional Medication for Calming,140488
+1550,Decreased Blood-Clotting from Low Vitamin K,140489
+1551,Sepsis Syndrome,140490
+1552,Bacterial Meningitis caused by Streptococcus,140491
+1553,Abscess Within the Abdomen,140492
+1554,Cystic Fibrosis and Infection from Pseudomonas Bacteria,140493
+1555,Pneumonia caused by Acinetobacter Bacteria,140494
+1556,Bacterial Meningitis,140495
+1557,Pneumonia Acquired from Being Treated In a Hospital,140496
+1558,Meningococcal Vaccination,140497
+1559,Ovary Follicle Stimulation for Assisted Fertility Procedures,140498
+1560,Stimulation of Ovarian Follicle,140499
+1561,Low Estrogen After Operation to Remove Ovaries,140500
+1562,Yellow-Brown Patches on Skin,140501
+1563,Metastatic Endometrial Carcinoma,140502
+1564,Cancer in the Lining of the Uterus,140503
+1565,Malignant Melanoma with BRAF V600K Mutation,140504
+1566,Non-Radiographic Axial Spondyloarthritis,140505
+1567,Decrease in Weight due to HIV Infection,140506
+1568,Loss of Appetite with HIV,140507
+1569,Preventive Treatment of Vivax Malaria,140508
+1570,Falciparum Malaria Resistant to the Medication Chloroquine,140510
+1571,Prevention of Falciparum Malaria that is Resistant to Chloroquine,140511
+1572,Prevention of Abnormal Growth in Cells of Uterine Lining,140512
+1573,Joint Pain,140513
+1574,Post-Menopausal Symptoms,140514
+1575,A Tumor Formed of Blood Vessels,140515
+1576,A Hereditary Progressive Anemia of Unknown Cause,140516
+1577,Erythema Multiforme,140517
+1578,"Disease with Enlarged Lymph Tissue, Spleen and Liver",140518
+1579,Test for the Presence of Estrogen in the Body,140520
+1580,Process of Making X-Rays of Stomach or Intestines,140521
+1581,X-Ray of Arteries that are Distant From Center of the Body,140522
+1582,X-Ray of the Bile Ducts,140523
+1583,Intestinal Infection by a Worm - Trichuris Trichiura,140524
+1584,Pain with Advanced Prostate Cancer Resistant to Hormones,140525
+1585,Cancer of the Bladder,140526
+1586,Prevention of Recurrent Bladder Cancer,140527
+1587,Cancer of the Glands Above the Kidneys,140528
+1588,Induction of Cervical Softening and Dilation in Labor,140530
+1589,Anemia in Chronic Kidney Disease,140531
+1590,Hair Loss,140532
+1591,"Bacterial Infection due to Deer Fly, Flea & Tick Bites",140533
+1592,Chronic Post Traumatic Stress Disorder with Trauma-related Nightmares,140534
+1593,Enlarged Prostate,140535
+1594,Sinus Irritation and Congestion,140536
+1595,Inflammation of the Gums and Mouth,140537
+1596,Bacterial Skin Infection - Yaws,140538
+1597,Acute Gonorrhea of the Lining of the Uterus,140539
+1598,Infectious Disease with Relapsing Attacks of High Fever,140540
+1599,Wasting of Tissues of the Vulva,140541
+1600,Skin Infection marked by Ulcers - Cutaneous Leishmaniasis,140542
+1601,Sedation with Ability to Respond to Stimulation or Speech,140544
+1602,Anxiety associated with an Operation,140545
+1603,Feeling Restless,140546
+1604,Prevention of Calcium-Containing Kidney Stones,140547
+1605,Inducing of a Relaxed Easy State,140548
+1606,Inflammation and Infection of Nail Cuticle,140549
+1607,Decreased Bone Mass Following Menopause,140550
+1608,X-Ray Procedure to Determine Spread of Prostate Cancer,140551
+1609,"Depression associated with Bipolar Disorder, Adjunct Treatment",140552
+1610,Muscle Weakness associated with Sleeping Disease,140554
+1611,Depression following Delivery of Baby,140555
+1612,Premature Ejection of Semen,140556
+1613,Depressed Mood Disorder Occurring Every Year at the Same Time,140557
+1614,Anorexia Nervosa,140558
+1615,Eczema Skin Condition Resisting Treatment,140559
+1616,Chronic Obstructive Lung Disease,140560
+1617,Bronchospasm Prevention,140561
+1618,Emphysema,140562
+1619,Generalized Attack of Muscular Weakness,140563
+1620,Acute Heparin Overdose,140564
+1621,Pulmonary Atresia Present at Birth,140565
+1622,Enlarged Prostate with Urination Problems,140566
+1623,Overactive Thyroid Gland,140567
+1624,Male Pattern Baldness,140568
+1625,Symptoms arising in Severe Thyrotoxicosis Thyroid Crisis,140569
+1626,Overactive Thyroid Gland in Newborn,140570
+1627,Idiopathic Hypertrophic Subaortic Stenosis,140572
+1628,General Anesthesia,140573
+1629,Anesthesia of the Cornea of the Eye,140574
+1630,Supraventricular Cardiac Arrhythmia,140576
+1631,Low Platelet Count in Chronic Hepatitis C Infection,140577
+1632,Metastatic Cancer Involving the Kidney Cells,140578
+1633,Osteoporosis in Male Patient,140579
+1634,Aromatase Inhibitor Drug-Induced Osteoporosis,140580
+1635,Osteoporosis in Men due to Deficient Function of Testis,140581
+1636,Pulmonary Emphysema associated with Alpha-1-Proteinase Inhibitor Deficiency,140582
+1637,Rejection of Liver Transplant,140583
+1638,Management of Body's Rejection to a Transplanted Kidney,140584
+1639,Ovarian Dysfunction causing Absence of Menstrual Periods,140585
+1640,Infertility caused by Deficiency of a Hormone-Progesterone,140586
+1641,Low Blood Sugar,140587
+1642,Condition with an Abnormal High Amount of Insulin,140588
+1643,Inflammation of the Rectum,140589
+1644,Soreness of the Rectal Area,140590
+1645,Rectal Disorder,140591
+1646,Anemia associated with Frequent Blood Donation,140592
+1647,Anemia Due To Chemotherapy and Radiotherapy Combination,140593
+1648,Anemia due to Kidney Failure,140594
+1649,Severe Nausea and Vomiting that has Lasted a Long Time,140595
+1650,Anemia from Chemotherapy,140596
+1651,Anxiety without Psychosis,140597
+1652,Reduction of Allogeneic Blood Transfusion in Surgery,140598
+1653,Rapid Ventricular Heartbeat,140599
+1654,Prevention of Bacterial Infection in Chronic Lymphocytic Leukemia,140600
+1655,Wheezing,140601
+1656,Chronic Widening of Lung Air Passages,140602
+1657,Malaria caused by the Protozoa Plasmodium Vivax,140603
+1658,Tooth Decay Prevention,140604
+1659,Prevention of Streptococcus Pneumoniae Infection,140605
+1660,Inflammation of the Gums,140606
+1661,Prevention of Tooth Plaque,140607
+1662,Medication Treatment for Healing Ulcer of the Duodenum,140608
+1663,Chronic Diarrhea,140609
+1664,Poisoning by the Heart Medication Digitalis,140610
+1665,Fatty Bowel Movements in Cystic Fibrosis,140611
+1666,Extreme Apprehension or Fear of Social Interaction,140612
+1667,Benign Tumors of the Hormone Producing Glands,140613
+1668,Scratch Wound on Cornea,140614
+1669,Inflammation of the Iris - the Colored Part of the Eyeball,140615
+1670,Infection of the Cornea of the Eye due to Herpes Zoster,140616
+1671,Chronic Infection of Genotype 3 Hepatitis C Virus,140617
+1672,Increased Hunger,140618
+1673,Postmenopausal Urethral Atrophy,140619
+1674,Bell's Palsy Paralysis of One Side of the Face,140620
+1675,Worsening of Asthma,140622
+1676,Acute Exacerbation of Multiple Sclerosis,140623
+1677,Pneumonia with High Amount of Eosinophil White Blood Cells,140624
+1678,Bronchiolitis Obliterans with Organizing Pneumonia,140625
+1679,Sjogren's Syndrome; Causes Dry Eyes & Mouth And Arthritis,140626
+1680,Cancer of the Prostate Gland,140627
+1681,Inflammation & Obstruction of Smallest Breathing Passages,140628
+1682,Vocal Cord Swelling,140629
+1683,Decreased Platelets due to a Disease State or a Drug,140630
+1684,Breast Cancer,140631
+1685,Allergic Bronchopulmonary Aspergillosis - Fungal Infection,140632
+1686,Anemia From Too Few Young Red Blood Cells,140633
+1687,Rheumatic Fever,140634
+1688,Inflammation of the Uvea of the Eye,140635
+1689,Inflammation in Lungs caused by Allergic Reaction,140636
+1690,Allergic Reaction causing Serum Sickness,140637
+1691,Increased Calcium in the Blood from Sarcoidosis,140638
+1692,Fever due to Cancer,140639
+1693,Cutaneous T-Cell Lymphoma,140640
+1694,A Type of Inflammation of Both Eyes,140641
+1695,Beryllium Poisoning,140642
+1696,Chronic Malignant T-Cell Lymphoma of the Skin,140643
+1697,Periarteritis Nodosa,140644
+1698,Neuroendocrine Cancer of the Prostate Gland,140645
+1699,Diffuse Large B-Cell Lymphoma,140646
+1700,Liver Problems,140647
+1701,Local Anesthesia for Surgical or Other Procedure,140648
+1702,Major Nerve Block for Surgery,140649
+1703,CCR5 Tropic HIV Infection,140650
+1704,Nerve Pain,140651
+1705,High Pressure Within the Skull,140652
+1706,Fluid Accumulation in the Brain,140653
+1707,Dotted Lesions or Damage on Cornea of Eye,140654
+1708,Prevent Inflammation of the Cornea due to the Medication Cytarabine,140655
+1709,Infection caused by Worms - Metagonimiasis,140656
+1710,A Tapeworm Infection - Taeniasis,140657
+1711,Prevention of Falciparum Malaria,140658
+1712,Risk Reduction for Recurrent Preterm Birth,140659
+1713,Low Amount of Magnesium in the Blood,140660
+1714,Images of the Brain Produced by X-Ray Techniques,140661
+1715,Severely Increased Blood Pressure and Edema During Pregnancy,140662
+1716,Overdose of Organophosphorous Agent,140663
+1717,Respiratory System Complications due to Cystic Fibrosis,140664
+1718,Arthritis in Lyme Disease,140665
+1719,Abdominal Infection due to the Bacteria Actinomyces,140666
+1720,Mouth Infection Prevention,140667
+1721,COPD with Chronic Bronchitis,140668
+1722,Additional Controller Medication for Asthma,140669
+1723,Procedure to View Function of the Ventricles of the Heart,140670
+1724,Chronic Bronchitis,140671
+1725,Bronchi Muscle Spasm resulting from COPD,140672
+1726,A Type of Flu - Influenza A,140673
+1727,Inflammation of Esophagus from Backflow of Stomach Acid,140674
+1728,Prevent Indigestion,140675
+1729,Leg Pain when Walking; Absent at Rest,140676
+1730,Peripheral Vascular Disease,140677
+1731,Bladder Pain,140678
+1732,Chronic Infectious Disease due to Organism L. Donovani,140679
+1733,Infection Prevention from Tooth Extraction,140680
+1734,Chorea Prevention,140681
+1735,Scarlet Fever,140682
+1736,Trench Mouth,140683
+1737,"Acute Infection of the Nose, Throat or Sinus",140684
+1738,Upper Respiratory Infection caused by Pneumococcus,140685
+1739,Throat Irritation,140686
+1740,Syphilis,140687
+1741,Excessive Copper Deposits in the Liver and Brain,140688
+1742,Congenital Syphilis with Nervous System Involvement,140689
+1743,Cold Sore,140690
+1744,Nonsquamous Non-Small Cell Lung Cancer,140691
+1745,Pus in Lungs caused by Bacteria Clostridium Perfringens,140692
+1746,"Treatment of Depletion of Body's Supply of Sodium, Potassium and Chloride",140693
+1747,Use of Drugs or Surgical Procedures to Begin Labor Process,140694
+1748,"hormone receptor (HR)-positive, HER2-negative, PIK3CA mutated advanced breast cancer",140695
+1749,An Infection caused by Worms,140696
+1750,Dry Mouth Secondary to Sjogren's Syndrome,140697
+1751,Dry Mouth caused by Radiation Therapy,140698
+1752,"Red Patches from Sun Exposure on the Body, Arms or Legs",140699
+1753,Increased Pressure in Eyes,140700
+1754,High Grade Dysplasia associated with Barrett's Esophagus,140701
+1755,Low Amount of Phosphate in the Blood,140702
+1756,Seizure Occurring during Neurosurgery,140703
+1757,Prevention of Seizures following Head Injury or Surgery,140704
+1758,Irregular Heart Rhythm due to the Drug Digitalis,140705
+1759,Continued Painful Erection,140706
+1760,Weight Gain,140707
+1761,Treatment to Prevent a Blood Clot in a Vascular Stent,140709
+1762,Treatment to Prevent Peripheral Artery Thromboembolism,140710
+1763,Prevention of Blood Clots in the Brain,140711
+1764,Disease that Causes Disc-Shaped Patches On the Upper Body,140712
+1765,Skin Allergy to Sunlight,140713
+1766,Acute ST Elevation Myocardial Infarction,140714
+1767,Low Amount of Potassium in the Blood,140715
+1768,Prevention of Low Potassium in the Blood,140716
+1769,Uric Acid Kidney Stones,140717
+1770,High Amount of Oxalic Acid in the Urine,140718
+1771,Calcium Phosphate Kidney Stones,140719
+1772,Skin Disease with Hardened Patches of Skin,140721
+1773,Inflammation of Blood Vessels in the Skin,140722
+1774,External Genital Warts,140723
+1775,Preventive Treatment of Ovale Malaria,140724
+1776,Non-Q Wave Heart Attack,140725
+1777,aggressive systemic mastocytosis,140726
+1778,Tumor of Soft/Connective Tissue that is Usually Malignant,140727
+1779,Frequent Headaches,140728
+1780,Intestinal Parasitic Infection,140729
+1781,Increased Levels of Prolactin in the Blood,140730
+1782,Prolactin Excreting Tumor of the Pituitary Gland,140731
+1783,Hyperparathyroidism caused by Chronic Kidney Failure,140732
+1784,Deficiency of Pantothenic Acid a B Complex Group Vitamin,140733
+1785,Hepatic Porphyria,140734
+1786,Fluid Retention Before or During Menstrual Period,140735
+1787,Breast Cancer that has Spread to the Bones,140736
+1788,Glucocorticoid-Induced Osteoporosis Prevention,140737
+1789,Paget's Disease of Bone,140738
+1790,Lesions in the Bone of the Disease Multiple Myeloma,140739
+1791,Cancer Metastasis to Bone,140740
+1792,Schizophrenia With Mood Changes,140741
+1793,Psychosis caused by a Disease,140742
+1794,"Hormone Receptor (HR)-Positive, HER2-Negative Advanced Breast Cancer in Woman",140743
+1795,Prevention of Ventricular Fibrillation,140744
+1796,Atypical Ventricular Tachycardia,140745
+1797,Locally Advanced Breast Carcinoma,140746
+1798,Cancer Involving the Head or Neck,140747
+1799,Atrial Flutter,140748
+1800,Petit Mal Epilepsy with Multiple Seizure Types,140750
+1801,Difficulty Falling Asleep,140751
+1802,Treatment to Prevent Gastroenteritis due to Rotavirus,140752
+1803,Regional Anesthesia for Labor Pain,140753
+1804,Regional Anesthesia for Surgery,140754
+1805,Condition caused by Low Levels of Parathyroid Hormone,140755
+1806,Aspiration Pneumonia Prevention,140757
+1807,Additional Repair of Coronary Artery with Balloon,140758
+1808,Additional Removal of Plaque from Coronary Arteries,140759
+1809,Pervasive Developmental Disorder,140760
+1810,Mild to Moderate Alzheimer's Type Dementia,140761
+1811,A Rare Developmental Disorder of Infants,140763
+1812,Lymphangioleiomyomatosis,140764
+1813,Medication Treatment for Healing Stomach Ulcer,140765
+1814,Stones in the Urinary Tract,140766
+1815,Allergic Rhinitis Due to Ragweed Pollen,140767
+1816,Metastatic Castration-Resistant Prostate Cancer,140768
+1817,Prevention of Rabies after Exposure to the Disease,140769
+1818,Trouble Breathing,140770
+1819,Prevention of Rabies,140771
+1820,Medication Treatment for Healing Gastroesophageal Reflux,140772
+1821,Symptoms Accompanying Esophageal Reflux of Stomach Acid,140773
+1822,Blood Clotting Disorder from Clotting Factor IX,140774
+1823,Dementia associated with Parkinson's Disease,140775
+1824,Follicular Lymphoma,140776
+1825,CD20 Positive Non-Hodgkin's Lymphoma,140777
+1826,Disease of Respiratory Tract - Wegener's Granulomatosis,140778
+1827,pemphigus vulgaris,140779
+1828,Mantle Cell Lymphoma,140780
+1829,Recurrent or Resistant to Treatment Non-Hodgkin's Lymphoma,140781
+1830,Osteoporosis caused by Glucocorticoid Drugs,140783
+1831,Chronic Pulmonary Hypertension After Pulmonary Embolism,140784
+1832,Lou Gehrig's Disease,140785
+1833,Diarrhea caused by E. Coli Bacteria,140786
+1834,Treatment of Staphylococcal Osteomyelitis with More Than One Medication,140787
+1835,Inactive Tuberculosis,140788
+1836,Infection due to a Brucella Bacteria,140789
+1837,Leprosy,140790
+1838,Respiratory Syncytial Viral Infection of Respiratory Tract,140791
+1839,Prevention of HIV Infection after Exposure,140792
+1840,Myelodysplastic Syndrome with 5q Deletion Gene Type,140793
+1841,Flat Wart,140794
+1842,Renal Osteodystrophy with Hyperphosphatemia,140795
+1843,Fine Wrinkling of the Face,140796
+1844,Fine Wrinkling,140797
+1845,Thickening of the Outer Horny Layer of the Skin,140798
+1846,Severe Ulcerative Colitis,140799
+1847,Crohn's Disease with Fistulas Developing in Intestines,140800
+1848,Prevent Mother's Rh Factor Reaction in Baby,140801
+1849,Crohn's Disease Maintenance of Remission,140802
+1850,Ulcer of the Leg with Diabetes and Nerve Involvement,140803
+1851,Stromal Tumor of Stomach or Intestines,140804
+1852,Severe Type of Inflammatory Bowel Disease-Crohn's Disease,140805
+1853,Insertion of a Tube Into the Intestine or Stomach,140806
+1854,Disease of the Skin Characterized by Pus-Filled Blisters,140807
+1855,osteoporosis in postmenopausal woman at high risk for fracture,140808
+1856,Cancer that has Spread To the Bone From Solid Tumors,140809
+1857,Increased Calcium in the Blood from Cancer,140810
+1858,Additional X-Rays of the Stomach or Intestines,140811
+1859,Sudden Rapid Heartbeat-Paroxysmal Ventricular Tachycardia,140812
+1860,Life-Threatening Rapid Ventricular Heartbeat,140813
+1861,High Blood Pressure caused by Scleroderma,140814
+1862,Itching Associated with Blockage of a Bile Duct,140815
+1863,Osteoporosis caused by Anti-Androgen Drugs,140816
+1864,renal cell carcinoma adjuvant therapy following nephrectomy,140817
+1865,Acute Sinus Infection caused by Haemophilus Parainfluenzae,140818
+1866,Prevention of Bronchospasms with Emphysema,140819
+1867,Intestinal Infection caused by the Roundworm Strongyloides,140820
+1868,Inadequate Gonadotropin Secretion causing Hypogonadism,140821
+1869,Undescended Testicle,140822
+1870,Cluster Headache,140823
+1871,Inflammation of a Shoulder Joint,140824
+1872,Shoulder Tendon Inflammation,140825
+1873,Blood Clotting Disorder - Von Willebrand's Disease,140826
+1874,Skin Condition Marked by Red and Painful Nodules,140827
+1875,Skin & Lymph Node Infection by Sporothrix Schenckii Fungus,140828
+1876,Surgery on the Thyroid Gland,140829
+1877,Gonorrhea Infection of the Throat,140830
+1878,Continuous Bacterial Inflammation of the Prostate Gland,140831
+1879,Infection From Birth due to Toxoplasma Gondii Parasite,140832
+1880,Encephalitis due to the Parasite Toxoplasma Gondii,140833
+1881,Inflammation of the Choroid and Retina of the Eye,140834
+1882,Chronic Bronchitis caused by Haemophilus Influenzae,140835
+1883,Chronic and Contagious form of Conjunctivitis - Trachoma,140836
+1884,Bacterial Inflammation of Cornea and Covering of Eye,140837
+1885,Intestine Infection due to the Shigella Bacteria,140838
+1886,Infection due to Chlamydiae Species Bacteria,140840
+1887,Highly Infectious Venereal or Sexually Transmitted Ulcer,140841
+1888,Feeling Weak,140842
+1889,Sucrase-Isomaltase Enzyme Deficiency from Birth,140843
+1890,Decreased Muscle Tone,140844
+1891,Chronic Myelocytic Leukemia in the Accelerated Phase,140845
+1892,Vancomycin-Resistant Enterococcus Faecium in the Blood,140846
+1893,Respiratory Syncytial Virus Pneumonia Prevention,140847
+1894,Additional Medication for Diabetes Type 2,140848
+1895,Additional Medication for Diabetes Type 1,140849
+1896,Added Therapy to Improve Treatment of Melanoma,140850
+1897,Excessive Sweating of the Armpit,140851
+1898,Enlarged Superficial Veins,140852
+1899,Ichthyosis Lamellar,140853
+1900,A Rare Hereditary Skin Condition,140854
+1901,Skin Disease Characterized by Swollen Itching Lesions,140855
+1902,"Increased Size of Hands, Feet and Face",140856
+1903,Insomnia with Middle of the Night Awakening and 4 Hours Sleep Time Remaining,140857
+1904,Dark Urine in the Morning Caused by Blood Disorder,140858
+1905,Atypical Hemolytic Uremic Syndrome,140859
+1906,Roughened Red Patches of Skin due to Sun Exposure,140860
+1907,Cyanide Poisoning,140861
+1908,Ornithine Carbamoyltransferase Deficiency,140862
+1909,Excessive Urinary Excretion of the Amino Acid Cystine,140863
+1910,Low Amount of Sodium in the Blood,140864
+1911,Excess Body Acid,140865
+1912,Renal Tubular Acidosis,140866
+1913,Chronic Phase Philadelphia Chromosome Positive Chronic Myelocytic Leukemia,140867
+1914,Philadelphia Chromosome Positive Acute Lymphoblastic Leukemia,140868
+1915,Sprains and Strains,140869
+1916,Type of Infection caused by Histoplasmosis Fungus,140870
+1917,Severe Lower Back Pain from Kidney Stones,140871
+1918,Infection caused by the Fungus Scedosporium Apiospermum,140872
+1919,Infection caused by Coccidioides Fungus,140873
+1920,Infection caused by Blastomyces Dermatitidis Fungus,140874
+1921,Accumulation of Fluid caused by Cirrhosis of the Liver,140875
+1922,Male Pattern of Hair Distribution or Hirsutism in a Woman,140876
+1923,Aldosteronism,140877
+1924,Diagnostic Test for Primary Hyperaldosteronism,140878
+1925,Accumulation of Fluid caused by Kidney Disease,140879
+1926,Parkinson Symptoms,140880
+1927,Parkinsonism due to Degenerations in the Brain,140881
+1928,Additional Treatment with Gastroscopy,140882
+1929,An Infection in a Burn Wound,140883
+1930,Increased Pressure of Pulmonary Circulation,140884
+1931,Kidney Stones caused by Cystine,140885
+1932,Pediatric Fever without a Source,140886
+1933,Complicated Skin Infection due to Strep. Pyogenes Bacteria,140887
+1934,Low Sperm Count,140888
+1935,Superficial Basal Cell Carcinoma of the Skin,140889
+1936,Relapsed Follicular B-Cell Non-Hodgkin Lymphoma,140890
+1937,Administration of Local Anesthetic Nerve Block,140891
+1938,Vulvar Intraepithelial Neoplasia,140892
+1939,Hyperparathyroidism caused by Chronic Renal Failure with Dialysis,140893
+1940,High Amount of Calcium in the Blood from Increased Activity of the Parathyroid Gland,140894
+1941,Increased Calcium in Blood due to Parathyroid Cancer,140895
+1942,PKU - Phenylketonuria,140896
+1943,Carcinoid Crisis,140897
+1944,Increased Growth of Islet Cells of Pancreas,140898
+1945,Pancreatic Tumor causing Excessive Secretion of Insulin,140899
+1946,Severe Burn,140900
+1947,Syndrome of Inappropriate Antidiuretic Hormone Secretion,140901
+1948,Disorder in which Skin Converts to Hard Horny Material,140902
+1949,Ventricular Premature Beats,140903
+1950,Severe Anxiety,140904
+1951,Plantar Warts,140905
+1952,Prevention of Shingles,140906
+1953,Herpes Simplex Infection of Skin & Mucous Membranes,140907
+1954,Genital Herpes,140908
+1955,Recurrent Cold Sore,140909
+1956,Pneumonia caused by the Bacteria Chlamydia,140910
+1957,Herpes Simplex Infection of Skin and Mucous Membranes,140911
+1958,Shingles,140912
+1959,Acute Gonorrhea of the Cervix,140913
+1960,Herpes Infection of the Eye,140914
+1961,Recurrent Genital Herpes,140915
+1962,Herpes Simplex Infection,140916
+1963,Prevent Recurrent Herpes Simplex Infection,140917
+1964,Excess Absorption of Diet Plant and Shellfish Sterols and Cholesterol,140918
+1965,Malignant Melanoma with BRAF V600E Mutation,140919
+1966,Epithelial Cancer of Ovary,140920
+1967,Primary Cancer of Peritoneum,140921
+1968,Infection of the Cornea of the Eye with Ulcer Formation,140922
+1969,Escherichia Coli Bacteria in the Blood,140923
+1970,Inflammation and Infection of the Abdomen Lining,140924
+1971,Appendicitis,140925
+1972,E. Coli Bacteria Infection of Abdominal Cavity Lining,140926
+1973,Complicated Appendicitis caused by Bacteroides Bacteria,140927
+1974,Blood or Tissue Infection Affecting Whole Body of Newborn,140928
+1975,Acute Pain,140929
+1976,Vomiting in Children due to Acute Gastroenteritis,140930
+1977,Petit Mal Seizures,140931
+1978,Muscle Spasms caused by a Spinal Disease,140932
+1979,Chronic Obstructive Asthma,140933
+1980,Yellow Fever Vaccination,140934
+1981,HIV Infection Pre-Exposure Prophylaxis,140935
+1982,Infection of Urinary Tract due to Enterobacter Cloacae,140936
+1983,Infection of the Cornea of the Eye due to Herpes Simplex,140938
+1984,Infection of Cornea and Conjunctiva due to Herpes Simplex,140939
+1985,Surgical Vitrectomy Adjunct to Enhance Visualization,140940
+1986,Edema or Swelling of the Larger Air Passages of the Lungs,140941
+1987,A Condition in which Hair Falls Out in Patches,140942
+1988,Benign Tumor in Tissue Connecting Muscles and Bones,140943
+1989,Subacute Inflammation of the Bursa,140944
+1990,"Painful, Red or Swollen Mouth",140945
+1991,Gum Disease,140946
+1992,Genital Itching,140947
+1993,Varying Shades of Excessive Coloration of a Body Part,140948
+1994,Indolent B-Cell Non-Hodgkin Lymphoma,140949
+1995,insomnia associated with depression,140950
+1996,Bleeding due to a Breakdown of Fibrin Needed for Clotting,140951
+1997,Typhoid Vaccination,140952
+1998,Test for Thyroid Problems,140953
+1999,Deficiency in Thiamine or Vitamin B1,140954
+2000,Repeatedly Occurring Small Ulcers of the Mouth,140955
+2001,Skin Disease in Patients with Discoid Lupus Erythematosus,140956
+2002,Swollen Itching Skin Lesions and Erosion of Skin,140957
+2003,A Chronic Multisystem Inflammatory Disorder,140958
+2004,Treatment to Prevent Recurrent Aphthous Stomatitis,140959
+2005,Atrial Flutter Electrically Shocked to Normal Rhythm,140960
+2006,Blockage or Closing Off of a Blood Vessel in the Brain,140961
+2007,Edema with Defective Kidney Function,140962
+2008,Metastatic Cancer of Cervix,140963
+2009,Binge Eating Disorder,140964
+2010,Autosomal Dominant Polycystic Kidney Disease,140965
+2011,Inflammation of the Sac in which Tears are Collected,140966
+2012,Combined Inflammation of Cornea and Conjunctiva of the Eye,140967
+2013,Inflammation of Cornea due to Improper Closing of the Eye,140968
+2014,Severe Inflammation of the Cornea with Rosacea Involvement,140969
+2015,Inflammation of the Front Portion of the Eye,140970
+2016,Inflammation of the Cornea due to Exposure to the Air,140971
+2017,Respiratory Cystic Fibrosis with Pseudomonas aeruginosa Colonization,140972
+2018,Synergy for P. Aeruginosa Infection in Cystic Fibrosis,140973
+2019,Female Urethral Syndrome,140974
+2020,Irregular Involuntary Spasms of Limbs or Facial Muscles with Huntington's Disease,140975
+2021,Rare X Chromosome Abnormality - Klinefelter Syndrome,140976
+2022,Deficient Activity of Testes or Ovaries due to Chemotherapy,140977
+2023,Defect of Connective Tissue - Noonan's Syndrome,140978
+2024,Absence of Testicles,140980
+2025,Unusually Late Sexual Maturity,140981
+2026,Inflammation and Rotation of the Testes,140982
+2027,Chronic Hepatitis B,140983
+2028,Treatment to Prevent Tetanus and Diphtheria,140984
+2029,Primary Testicular Failure due to Torsion of Both Testis,140985
+2030,A Type of Brain Cancer - Anaplastic Astrocytoma,140986
+2031,Cancer of Pancreas Islet Cells,140987
+2032,Multiple Seizure Types,140988
+2033,Skin Infection due to Streptococcus Agalactiae Bacteria,140989
+2034,Complicated Infection in Abdomen,140990
+2035,Myotonia Congenita,140991
+2036,Lentigo on the Skin of Face,140992
+2037,Excessive Pigmentation of Facial Skin,140993
+2038,Epidermal Growth Factor Receptor Positive Non-Small Cell Lung Cancer,140994
+2039,Prevention of Breast Cancer,140995
+2040,Intraductal Breast Cancer,140996
+2041,Non-Small Cell Lung Cancer with EGFR T790M Gene Mutation,140997
+2042,Prevention of Angioedema Attacks in Patient with Hereditary Angioedema,140998
+2043,Enlarged Breasts,140999
+2044,Breast Tenderness,141000
+2045,Bleeding in Hemophilia A,141001
+2046,Treatment to Prevent Recurrence of a Blood Clot in the Lungs,141003
+2047,Treatment to Prevent Recurrence of a Clot in a Deep Vein,141004
+2048,ROS1 Positive Non-Small Cell Lung Cancer,141005
+2049,ALK Positive Non-Small Cell Lung Cancer,141006
+2050,Dupuytren's Contracture,141007
+2051,Severe Decrease in Normal Tears,141008
+2052,community acquired bacterial pneumonia,141009
+2053,Excessive Sweating,141010
+2054,Deep Lines Between Eyebrows,141011
+2055,Upper Limb Muscle Spasm,141012
+2056,Stomach Cancer,141013
+2057,Treatment to Prevent Gallstones,141014
+2058,Gallstones,141015
+2059,Blockage of Normal Bile Flow,141016
+2060,Chronic Inflammation of the Liver,141017
+2061,Closure of Some or All of the Major Bile Ducts,141018
+2062,Complications of Liver & Bile Ducts due to Cystic Fibrosis,141019
+2063,Inflammation with Fibrous Tissue Formation of Bile Ducts,141020
+2064,Hardening of Liver and Blockage of Bile Ducts,141021
+2065,Nausea and Vomiting of Pregnancy,141022
+2066,Insect Bites,141023
+2067,Cat Bite Wound,141024
+2068,Cannot Empty Bladder,141025
+2069,Gaucher's Disease,141026
+2070,Disorder of Low Sexual Desire in Premenopausal Woman,141027
+2071,A Fungal Infection - Aspergillosis,141028
+2072,Aggressive Fungal Infection - Invasive Aspergillosis,141029
+2073,Prevention of a Low Amount of Calcium in the Blood,141030
+2074,Wound,141031
+2075,infection caused by a virus,141032
+2076,Prevent Shingles in Patients Without a Normal Immune System,141033
+2077,Treatment to Prevent Cytomegalovirus Disease,141034
+2078,Dysfunction of Left Ventricle of Heart Without Symptoms,141035
+2079,Increased Facial Hair in a Woman,141036
+2080,Infection Occurring During or Soon After an Operation,141037
+2081,Skin Infection due to Staphylococcus Epidermidis Bacteria,141038
+2082,Bone Infection caused by Staphylococcus Aureus Bacteria,141039
+2083,Infection of an Artificial Heart Valve,141040
+2084,Skin Infection caused by Anthrax,141041
+2085,Blood Infection caused by Staphylococcus Bacteria,141042
+2086,Infection of the Brain or Spinal Cord caused by Anthrax,141043
+2087,Infection of Intestines caused by Staphylococcal Bacteria,141044
+2088,Red Lesions of Skin caused by Group A Streptococcus,141045
+2089,Additional Medication to Increase Absorption of Drugs,141046
+2090,Bacterial Meningitis caused by Staphylococcus,141047
+2091,Diphtheric Infection of the Heart,141048
+2092,Bacterial Infection of Heart Valve,141049
+2093,Seizures with Irregular Muscle Contractions,141050
+2094,Sleep Disturbance with Extreme Anxiety,141051
+2095,Seizures with Breaks in Consciousness & Other Symptoms,141052
+2096,Chickenpox,141053
+2097,Suppression of Recurrent Herpes Simplex Infection in HIV,141054
+2098,Calming of Pediatric Patient by Administration of Sedative,141055
+2099,Acute Repetitive Seizures,141056
+2100,Prevention of CMV Infection After Heart Transplant,141057
+2101,Prevention of CMV Infection Post Kidney Transplant,141058
+2102,Cytomegalovirus Infection of the Retina in AIDS patients,141059
+2103,Prevention of Cytomegalovirus Disease After Kidney-Pancreas Transplantation,141060
+2104,Blood Clotting Protein Deficiency due to Anticoagulants,141061
+2105,Decrease in the Blood-Clotting Protein Prothrombin,141062
+2106,Vitamin D Deficiency (High Dose Therapy),141063
+2107,Poison Oak,141064
+2108,Softening of Bones from Seizure Medications,141065
+2109,"Marked Inflammation of Urethra, the Canal that leads From the Bladder",141066
+2110,Alcaptonuria,141067
+2111,Brief Muscle Spasms in an Infant,141068
+2112,Dry Eyes due to Vitamin A Deficiency,141069
+2113,Histoplasmosis Fungus Disease of the Eye,141070
+2114,X-Ray Imaging of Heart & Great Vessels by Using Contrast,141071
+2115,Prevention of Paroxysmal Supraventricular Tachycardia,141072
+2116,Chronic Lymphocytic Leukemia with 17p Deletion,141073
+2117,Solid Tumor,141074
+2118,Osteosarcoma of Bone,141075
+2119,Ankylosing Spondylitis and High Risk of Developing Gastric Ulcers,141076
+2120,Colorectal Carcinoma with Epidermal Growth Factor,141077
+2121,A Sexually Transmitted Disease due to Chlamydia,141078
+2122,Rocky Mountain Spotted Fever,141079
+2123,Treatment to Prevent Lyme Disease,141080
+2124,Non-Contagious Disease due to Actinomyces Bacteria,141081
+2125,Anemia in Non-Dialysis-Dependent Chronic Kidney Disease,141082
+2126,Abnormal Movements of Face Muscles and Tongue,141083
+2127,Acute Sinus Infection caused by Klebsiella Pneumoniae Bacteria,141084
+2128,Acute Staphylococcus Aureus Infection of the Sinuses,141085
+2129,Lower Respiratory Tract Infection,141086
+2130,Dog Bite Wound,141087
+2131,Human Bite Wound,141088
+2132,Chronic Bronchitis caused by Haemophilus Parainfluenzae,141089
+2133,Chronic Bronchitis caused by Staphylococcus Species,141090
+2134,Skin Infection due to Enterobacter Bacteria,141091
+2135,Chronic Bronchitis caused by Streptococcus Pneumoniae,141092
+2136,Blockage or Closing Off of Blood Vessels in Retina of Eye,141093
+2137,Clotted Line Connecting Artery to Vein,141094
+2138,Raised Spots on the Cornea of the Eye,141095
+2139,Dilation of the Blood Vessels of the Eye,141096
+2140,Heart Failure After a Heart Attack,141097
+2141,Chronic Bronchitis caused by Moraxella Catarrhalis,141098
+2142,Chronic Bronchitis caused by Klebsiella Pneumoniae,141099
+2143,Giant Papillary Conjunctivitis,141100
+2144,Inflammation of Cornea and Conjunctiva Occurring in Spring,141101
+2145,Inflammation of the Conjunctiva Occurring in the Spring,141102
+2146,Difficulty Walking due to Multiple Sclerosis,141103
+2147,An Infection caused by the Fungus Zygomycetes,141104
+2148,Infection due to the Candida Fungus,141105
+2149,Abdominal Cavity Lining Infection caused by Enterobacter,141106
+2150,Infection with Cryptococcus Fungus,141107
+2151,Throat Infection caused by Streptococcus Pneumoniae,141108
+2152,Food Poisoning caused by Salmonella Bacteria,141109
+2153,Abdominal Pain and Frequent Stools with Blood & Mucous,141110
+2154,An Intestinal Infection due to Cryptosporidium Parasites,141111
+2155,Infection of Genitals or Urinary Tract,141112
+2156,Infection of the Throat caused by Staphylococcus Bacteria,141113
+2157,Infection of Genitals or Urinary Tract due to Enterococcus,141114
+2158,Skin Infection due to Streptococcus Bacteria,141115
+2159,Infection of Genitals or Urinary Tract due to Proteus,141116
+2160,Infection of the Genital and Urinary Tract due to E. Coli,141117
+2161,Infection of the Tonsils caused by Staphylococcus Bacteria,141118
+2162,Throat Infection caused by Haemophilus Influenzae,141119
+2163,Bedwetting,141120
+2164,Skin Irritation Around the Anus,141121
+2165,Bleeding in Hemophilia,141122
+2166,Ringworm of the Hand,141123
+2167,Ringworm,141124
+2168,Ringworm of the Beard,141125
+2169,Prevention of Anthrax,141126
+2170,Low Amount of Albumin Proteins in the Blood,141127
+2171,Skin Lesion caused by Worms,141128
+2172,Pork Tapeworm Larva Infection of Central Nervous System,141129
+2173,Infection caused by the Trichinae Parasite,141130
+2174,Infection caused by the Worm Toxocara Canis,141131
+2175,Infection caused by Microsporida Parasite,141132
+2176,Bone Infection and Inflamation,141133
+2177,Complicated Urinary Tract Infection caused by E. Coli,141134
+2178,Bleeding Following an Operation,141135
+2179,Fatigue associated with Multiple Sclerosis,141136
+2180,Viral Disease of Central Nervous System-Creutzfeldt-Jakob,141137
+2181,Fungal Meningitis caused by Cryptococcus,141138
+2182,Influenza A Prevention,141139
+2183,Advanced Breast Cancer Progression Post-Antiestrogen Therapy,141140
+2184,Elevated Platelets with Rapid Growth of Bone Marrow,141141
+2185,Skin Test for Tuberculosis,141142
+2186,Surgical Removal of Both Testicles,141143
+2187,Sinus Bradycardia,141144
+2188,Malaria caused by the Protozoa Plasmodium Falciparum,141145
+2189,refractory lung disease due to MAC,141146
+2190,Diffuse Lewy Body Disease,141147
+2191,Acute Thromboembolic Stroke,141148
+2192,Decrease in the Ability of Platelet Cells to Clot,141149
+2193,Blood Clot in the Brain,141150
+2194,Inflammation of the Tissues Surrounding a Tooth,141151
+2195,Blood Clot with Platelet Decrease due to Heparin,141152
+2196,Blood Clot Prevention with Heparin-Induced Decreased Platelet Count,141153
+2197,Blood Clot with Heparin-Induced Thrombocytopenia during Percutaneous Coronary Intervention,141154
+2198,Cryopyrin-Associated Periodic Syndromes,141155
+2199,Fabry Disease,141156
+2200,"Estrogen Receptor (ER)-Positive, HER2-Negative Postmenopausal Advanced Breast Cancer",141157
+2201,Renal Angiomyolipoma with Tuberous Sclerosis Complex,141158
+2202,Subependymal Giant Cell Astrocytoma associated with Tuberous Sclerosis,141159
+2203,Runny Nose Due to Grass Pollen,141160
+2204,Bleeding Prevention in Hemophilia,141161
+2205,Herpes Infection of Brain and Surrounding Tissue,141162
+2206,Inflammation of the Brain caused by Herpes Simplex Virus,141163
+2207,Eye Irritation,141164
+2208,Life Threatening Allergic Reaction,141165
+2209,Adams-Stokes Syndrome,141166
+2210,Breakthrough Pain in Opioid Tolerant Patients,141167
+2211,Pain In a Cancer Patient When On Pain Medication,141168
+2212,Chronic Granulomatous Disease,141169
+2213,Hardening of the Liver caused by Alcohol,141170
+2214,Polyarticular Juvenile Idiopathic Arthritis,141171
+2215,A Breaking Out of the Skin Resembling Acne,141172
+2216,"Treatment to Prevent Diphtheria, Pertussis and Tetanus",141173
+2217,Overdose of the Drug Acetaminophen,141174
+2218,An Increase in the Thickness of Lung Secretions,141175
+2219,Fungal Infection of the Esophagus,141176
+2220,Acid Base Imbalance of the Blood Toward the Basic Side,141177
+2221,Inflammation of the External Ear Resembling Eczema,141178
+2222,Altitude Sickness,141179
+2223,Water On the Brain with Obstruction of Cerebrospinal Fluid,141180
+2224,Inherited Periodic Paralysis,141182
+2225,Water on the Brain caused by Hemorrhage in the Brain,141183
+2226,Inadequate Vitamin C,141184
+2227,Testicular Germ Cell Cancer,141185
+2228,Severe Trouble Sleeping,141186
+2229,raised seborrheic keratosis,141187
+2230,Infection caused by the Bacteria Listeria Monocytogenes,141188
+2231,Acute Streptococcus Pyogenes Bacteria Infection of Sinuses,141189
+2232,Inflammation of One of the Glands of the Eyelids,141190
+2233,Treatment to Prevent Eye Infection in Newborn,141191
+2234,non-metastatic castration-resistant prostate cancer,141192
+2235,Disorder of Mental Processes due to a Brain Disease,141193
+2236,Cancer of Large Intestine with Wild-type K-ras Gene,141194
+2237,Anemia caused by Zidovudine,141195
+2238,Additional Medication to Treat Hives,141196
+2239,Severe Prolonged Asthma Attack,141197
+2240,Low Blood Pressure caused by Spinal Anesthesia,141198
+2241,Chronic Infection of Genotype 6 Hepatitis C Virus,141199
+2242,Ovarian Germ Cell Cancer,141200
+2243,Prevent Mucous Membrane Inflammation from Chemotherapy,141201
+2244,Too Much Iron in the Blood for a Long Period of Time,141202
+2245,Bladder Wall Inflammation,141203
+2246,Increased Uric Acid due to Cancer Chemotherapy,141204
+2247,Hunter Syndrome,141205
+2248,episodic cluster headache,141206
+2249,Diagnostic Test for Myasthenia Gravis,141207
+2250,Sickle Cell Anemia,141208
+2251,Skin Inflammation due to Exposure to X-Rays or Gamma Rays,141209
+2252,Mucous Membrane White Spots or Patches,141210
+2253,Maintain the Patency of Ductus Arteriosus,141211
+2254,Abnormal Fat Distribution associated with HIV,141212
+2255,Inflammation of Lips due to Sunlight Exposure,141213
+2256,Chronic Myelocytic Leukemia in the Blast Crisis Phase,141214
+2257,Hiatal Hernia with Esophagus Inflammation from Acid Reflux,141215
+2258,Inadequate Absorption of Nutrients due to a Short Bowel,141216
+2259,Allergy to Food that causes Problems of the Stomach or Intestines,141217
+2260,Prevention of Luteinizing Hormone Surge when undergoing Controlled Ovarian Hyperstimulation,141218
+2261,Prevention of Vulvar Cancer due to Human Papilloma Virus,141219
+2262,Prevention of Cervical Cancer due to Human Papilloma Virus,141220
+2263,Prevention of Genital Warts,141221
+2264,Disease caused by Cytomegalovirus Infection,141222
+2265,Prevention of Anal Cancer due to Human Papilloma Virus,141223
+2266,Prevention of Vaginal Cancer due to Human Papilloma Virus,141224
+2267,Guillain-Barre Syndrome,141225
+2268,Hypogammaglobulinemia associated with Recurrent Bacterial Infections,141226
+2269,Inclusion Body Myositis,141227
+2270,Multifocal Motor Neuropathy,141228
+2271,Deficiency of Antibodies,141229
+2272,Multiple Drugs for Skin Infection due to Pseudomonas Aeruginosa Bacteria,141230
+2273,Bone Infection caused by Staphylococcus Bacteria,141231
+2274,Complicated Urinary Tract Infection caused by Citrobacter,141232
+2275,Skin Infection due to Pseudomonas Aeruginosa Bacteria,141233
+2276,Bone Infection caused by Citrobacter Bacteria,141234
+2277,Treatment to Prevent Reaction After Bone Marrow Transplant,141235
+2278,Cancer of Gallbladder or Bile Ducts,141236
+2279,Inflammation of Mucous Membranes due to Radiation Therapy,141237
+2280,Inflammation of the Mucous Membrane due to Cancer Chemotherapy,141238
+2281,Prevent Eye Pupil Constriction from Eye Surgery,141239
+2282,Metastatic Anal Cancer,141240
+2283,Carcinoma In Situ of the Glans Penis,141241
+2284,Inflammation of the Outer Ear due to Allergy,141242
+2285,Adverse Effect of Benzodiazepine-Based Tranquilizer,141243
+2286,Blood Pressure Drop Upon Standing with Unknown Cause,141244
+2287,Lung Infection caused by Coccidioides Fungus,141245
+2288,Candida Species Yeast Infection of Abdominal Cavity Lining,141246
+2289,Urinary Tract Infection due to Candida Albicans Fungus,141247
+2290,Treatment for Prevention of Vulvovaginal Yeast Infection,141248
+2291,Disease of the Nails caused by Candida Species Fungus,141249
+2292,Scattered Infection caused by Coccidioides Fungus,141250
+2293,Bacterial Blood Infection caused by Pseudomonas Aeruginosa,141251
+2294,Disease of the Nails caused by Trichophyton Fungus,141252
+2295,Acute Outer Ear Pseudomonas Aeruginosa Bacterial Infection,141253
+2296,Sudden Recurrence/Intensity of Rapid Regular Heartbeats,141255
+2297,Added Treatment to Improve 5FU Effectiveness for Colon Cancer,141256
+2298,Rapid Onset of Fluid in the Lungs,141257
+2299,Prevent Kidney Problems Causing a Decreased Amount of Urine to be Passed,141258
+2300,Metastatic Breast Cancer Progression Post-Antiestrogen Therapy,141259
+2301,Abscess of Fallopian Tube and Ovary caused by Peptococcus,141260
+2302,Treatment-Resistant Schizophrenia,141261
+2303,Infection caused by the Parasite Balantidium,141262
+2304,Shingles in Patients Without a Normal Immune System,141263
+2305,Recurrent Infection caused by Herpes Simplex Virus,141264
+2306,Recurrent Mucocutaneous Herpes Simplex in Human Immunodeficiency Virus Infected Patients,141265
+2307,Pneumonia caused by the Bacteria Moraxella Catarrhalis,141266
+2308,Abscess of Fallopian Tube and Ovary caused by Bacteroides,141267
+2309,Local Anesthesia Injected to Block Nerve Transmission,141268
+2310,Skin Disinfection,141269
+2311,A Sex Chromosome Abnormality - Turner's Syndrome,141271
+2312,Escape of Intravenous Medications into Surrounding Tissues,141273
+2313,Severe Itching,141274
+2314,Having Several Acute Conditions with Sickle-Cell Disease,141275
+2315,Increased Red Blood Cells,141276
+2316,Spontaneous Hemorrhages and Increase in Blood Platelets,141277
+2317,Female Hormone Disturbance,141278
+2318,Abnormally Low Blood Pressure,141280
+2319,Diabetes Insipidus with Kidney Complications,141281
+2320,Treatment to Prevent Gout,141282
+2321,Severe Combined Immunodeficiency Disease,141283
+2322,Decreased Blood Volume,141284
+2323,Diagnostic Cystoscopy Aid for Bladder Cancer Detection,141285
+2324,Non-24 Hour Sleep-Wake Cycle Disorder,141286
+2325,HER2 Positive Stomach Cancer,141287
+2326,Treatment to Prevent Hepatitis B,141288
+2327,Treatment to Prevent Hepatitis A,141289
+2328,Maintain Patency of Indwelling Vascular Catheter,141290
+2329,Serious Blood Clotting Problem,141291
+2330,"Treatment to Prevent Diphtheria, Pertussis, Tetanus, Hepatitis B and Polio",141292
+2331,Increased Pressure in the Eye in the Absence of a Lens,141293
+2332,Treatment to Prevent Active Tuberculosis Infection,141294
+2333,Pneumonia caused by Aspergillus Fungus,141295
+2334,Disease caused by the Worm Onchocerca Volvulus,141296
+2335,Chronic Type of Schizophrenia,141297
+2336,Aggressive Behavior,141298
+2337,Problem Behavior,141299
+2338,Over Excitement,141300
+2339,Chronic Idiopathic Thrombocytopenic Purpura,141301
+2340,X-linked Agammaglobulinemia,141302
+2341,Complicated Peritonitis caused by Bacteroides Bacteria,141303
+2342,Streptococcal Gynecological Infection Following Surgery,141304
+2343,Colorectal Surgery Infection Prevention,141305
+2344,Familial Cold Autoinflammatory Syndrome,141306
+2345,Gynecological E. Coli Infection Following Surgery,141307
+2346,Complicated Skin Infection due to Peptostreptococcus Bacteria,141308
+2347,Complicated Abdominal Cavity Lining Clostridium Infection,141309
+2348,A Lack of Fatty Acids,141310
+2349,Acute Inflammation of the Liver due to Hepatitis C Virus,141311
+2350,A Malignant Pigmented Mole or Tumor,141312
+2351,Benign Tumor of the Larynx - Papilloma,141313
+2352,Twin Reversal Arterial Perfusion Syndrome,141314
+2353,Insulin-like Growth Factor Disorder,141315
+2354,excess iron due to repeated blood transfusions,141316
+2355,excess iron in person with non-transfusion-dependent thalassemia (NTDT),141317
+2356,Chronic Inflammation of the Joints due to Gout,141318
+2357,Type 2 Diabetes Adjunct in Cushing's Syndrome,141319
+2358,PD-L1 positive adenocarcinoma of gastroesophageal junction,141320
+2359,PD-L1 Positive Non-Small Cell Lung Cancer,141321
+2360,Cancer of the Cervix,141322
+2361,Familial Hyperkalemic Periodic Paralysis,141323
+2362,Chronic Skin Disease caused by a Fungus,141324
+2363,Pneumonia caused by a Fungus,141325
+2364,Fungal Skin Infection that Spreads to Bone/Lung/Joint/CNS,141326
+2365,Abnormal Development of Bronchopulmonary Tissue in Newborn,141327
+2366,Liver Tissue Death,141328
+2367,Diagnostic Test for Pancreas Function,141329
+2368,Bacterial Infection of Breast,141330
+2369,Bone Infection due to Streptococcus Bacteria,141331
+2370,Seizure with Loss of Normal Tone or Strength,141332
+2371,Infection of the Prostate Gland caused by Klebsiella,141333
+2372,Infection of the Middle Ear caused by Staphylococcus,141334
+2373,Nausea and Vomiting After Surgery,141335
+2374,Generalized Changes in Bone associated with Renal Failure,141336
+2375,"Disease with Hearing Loss, Ringing in the Ears & Dizziness",141337
+2376,Regional Anesthesia for Cesarean Section,141338
+2377,Chronic Muscle or Bone Pain,141339
+2378,Philadelphia Chromosome-Negative B-cell Acute Lymphoblastic Leukemia,141340
+2379,Cancer of the Testis,141341
+2380,Crow's Feet,141342
+2381,Eyelid Twitch,141343
+2382,Uncontrolled Urination Due to Bladder Overactivity,141344
+2383,Neuroleptic Malignant Syndrome,141345
+2384,Prevent Minor Bacterial Skin Infection,141346
+2385,Prevention of Newborn Respiratory Distress Syndrome,141347
+2386,Parkinsonism due to Thickening of Blood Vessel Walls,141348
+2387,Ureteral Spasm with Pain,141349
+2388,Early Stage of Syphilis with No Symptoms,141350
+2389,Rheumatic Fever Prevention,141351
+2390,Prevention of Cytomegalovirus Infection Post-Transplant,141352
+2391,Loss of Appetite,141353
+2392,Serotonin Syndrome - Adverse Drug Interaction,141354
+2393,Pure Red Cell Aplasia associated with Chronic Lymphocytic Leukemia,141355
+2394,Acute Monocytic Leukemia,141356
+2395,Scleroderma Lung Disease,141357
+2396,Malignant Tumor of the Kidney,141358
+2397,Prevent Sticking of Iris to Eye Lens,141359
+2398,Chronic Slow Progressing Ulcerative Granulomatous Disease,141360
+2399,"Short-Term Infection with Diarrhea, Discomfort & Weight Loss",141361
+2400,Urinary Tract Infection caused by Morganella Morganii,141362
+2401,Infection due to Salmonella paratyphi Bacteria,141363
+2402,Infection due to the Bacteria Rickettsia,141364
+2403,Infected Conjunctiva by Chlamydia Trachomatis Bacteria,141365
+2404,AIDS with Kaposi's Sarcoma,141366
+2405,Infection caused by Rickettsiae Bacteria,141367
+2406,Additional Medication for Inflammation Around the Teeth,141368
+2407,Psychotic Depressive Illness,141369
+2408,Acute Gonorrhea of the Lower Genital and Urinary Organs,141371
+2409,Infection due to Rickettsia Prowazekii Bacteria,141372
+2410,Infection caused by the Bacteria Ehrlichia,141373
+2411,Chlamydia Bacteria Infection of Part of a Testicle,141374
+2412,Infection caused by Leptospira Bacteria,141375
+2413,Disease due to the Microorganism Rickettsia Tsutsugamushi,141376
+2414,Disease due to Bartonella Bacilliformis Bacteria,141377
+2415,Genital & Urinary Organs Infected by Chlamydia Trachomatis,141378
+2416,Infection due to the Microorganism Coxiella Burnetii,141379
+2417,Decrease in the Amount of Work the Heart Does,141380
+2418,Small and Large Intestine Inflammation,141381
+2419,Acute Gonorrhea of the Testes,141382
+2420,Blood Circulation Failure due to Serious Heart Condition,141383
+2421,Failure of the Heart to Maintain Adequate Circulation,141384
+2422,Heart Disease from Problems with Part of the Heart Itself,141385
+2423,Infection due to the Microorganism Chlamydia Psittaci,141386
+2424,Added Medication for Life Threatening Allergic Reaction,141387
+2425,Severely Decreased Function of the Cortex of Adrenal Gland,141388
+2426,Progressive Diffuse Large B-Cell Lymphoma,141389
+2427,Burkitt's Lymphoma,141390
+2428,Tuberculosis of Lungs which Spreads to Other Body Parts,141391
+2429,chronic diarrhea associated with short bowel syndrome,141393
+2430,Shock caused by a Severe Bacterial Infection,141394
+2431,Inflammation of Blood Vessels with Rheumatoid Arthritis,141395
+2432,Lymphoma Spread to Brain & Spinal Cord Lining,141396
+2433,Aluminum Poisoning,141397
+2434,Dysfunction of Left Ventricle of Heart following Heart Attack,141398
+2435,Acute Gum Inflammation with Ulceration and Tissue Death,141399
+2436,Complicated Skin Infection due to Enterococcus Faecalis Bacteria,141400
+2437,Presence of Candida Species Yeast in the Blood,141401
+2438,Presumed Infection in Neutropenic Patient With Fever,141402
+2439,Continuation Therapy for Acute Osteomyelitis,141403
+2440,Acute Sinus Infection caused by Staphylococcus Bacteria,141404
+2441,Problem with Adrenal Gland,141405
+2442,Underdevelopment of the Pituitary Gland Since Birth,141406
+2443,Diagnostic Test For Cushing's Syndrome,141407
+2444,Itching of the Ear,141408
+2445,inappropriate sinus tachycardia,141409
+2446,Throat Pain,141410
+2447,Middle Ear Infection Needing Tube Placed in Ear,141411
+2448,Infection caused by Pseudomonas Aeruginosa Bacteria,141412
+2449,Urinary Tract Infection caused by Citrobacter,141414
+2450,Complicated Urinary Tract Infection caused by Klebsiella,141415
+2451,Acute Bone Infection,141416
+2452,Bladder Infection caused by E. Coli,141417
+2453,Diarrhea caused by a Bacteria,141418
+2454,Urinary Tract Infection due to Staphylococcus Epidermidis,141419
+2455,Ulcer of the Cornea of the Eye,141420
+2456,Infection of the Bladder,141421
+2457,Bladder Infection caused by Staphylococcus,141422
+2458,Complicated Urinary Tract Infection due to P. Aeruginosa,141423
+2459,Infection of the Prostate Gland caused by E. Coli,141424
+2460,Proteus Mirabilis Bacteria Urinary Tract Infection,141425
+2461,Bone Infection caused by Enterobacter,141426
+2462,Infection of the Prostate Gland caused by Proteus,141427
+2463,Pneumonia caused by Proteus Bacteria,141428
+2464,Bone Infection caused by Pseudomonas Aeruginosa,141429
+2465,Acute Outer Ear Bacterial Infection caused by Proteus Mirabilis,141430
+2466,Joint Infection caused by Pseudomonas Aeruginosa Bacteria,141431
+2467,Infection of Urinary Tract due to Pseudomonas Aeruginosa,141432
+2468,Typhoid Fever,141433
+2469,Skin Infection due to Citrobacter Bacteria,141435
+2470,Bladder Infection caused by Klebsiella Bacteria,141436
+2471,Pneumonia caused by the Bacteria Enterobacter,141437
+2472,Joint Infection caused by Enterobacter Species Bacteria,141438
+2473,Infection of Urinary Tract due to Providencia Species,141439
+2474,Bone Infection caused by Serratia Bacteria,141440
+2475,Urinary Tract Infection caused by Serratia,141441
+2476,Complicated Peritonitis caused by Pseudomonas Aeruginosa,141442
+2477,Inflammation of the Bladder,141443
+2478,Suicidal Behavior in Schizoaffective Disorder,141444
+2479,Familial Mediterranean Fever,141445
+2480,seborrheic dermatitis of scalp,141446
+2481,Washing Out Wound with Fluid,141447
+2482,Arthritis of the Toes and Fingers due to Sarcoidosis,141448
+2483,Extremely High Blood Pressure,141449
+2484,Male Infertility,141450
+2485,Inflammation of the Vagina caused by Bacteria,141451
+2486,Skin Infection due to Anaerobic Bacteria,141452
+2487,Fallopian Tube & Ovary Abscess due to Anaerobic Bacteria,141453
+2488,Blood Poisoning caused by the Bacteria Anaerobes,141454
+2489,Anaerobic Bacteria Infection of Abdominal Cavity Lining,141455
+2490,Inflammation in Pelvic Area caused by Anaerobic Bacteria,141456
+2491,Hair Follicle Inflammation due to Gram-Negative Bacteria,141457
+2492,Type of Leukemia - Hairy Cell Leukemia,141458
+2493,Infection of Tissues of the Uterus caused by Bacteroides,141459
+2494,Treatment to Prevent Anthrax following Exposure to Disease,141460
+2495,Anaerobic Infection Following Vaginal Cuff Surgery,141461
+2496,Infection due to the Parasite Toxoplasma Gondii,141462
+2497,Disease of the Mouth and Eyes Marked by Blisters,141463
+2498,Pyoderma Gangrenosum,141464
+2499,Malignant Hyperthermia,141465
+2500,Cystic Disease of the Breast,141466
+2501,Bitten by Pit Viper Snake,141467
+2502,Pneumonia caused by an Anaerobic Bacteria,141468
+2503,Complicated Urinary Tract Infection caused by Proteus,141469
+2504,Sudden Uncontrolled Muscle Contraction with Pain,141470
+2505,Premature Release of a Hormone to Promote Ovulation,141471
+2506,Malignant Testicular Tumor - Seminoma,141472
+2507,Nerve Pain of Tongue and Throat from 9th Cranial Nerve,141473
+2508,Duodenal Ulcer due to Nonsteroidal Anti-Inflammatory Drug,141474
+2509,Stress-Related GI Bleeding Prevention,141475
+2510,Inflammation of Uvea of Eye that is Resistant to Treatment,141476
+2511,Gonorrhea of the Rectum,141477
+2512,Multiple Polyps in the Colon,141478
+2513,Bacterial Meningitis caused by Pneumococcus,141479
+2514,Skin Infection caused by Morganella Morganii,141480
+2515,Infection caused by Yersinia Pseudotuberculosis Bacteria,141481
+2516,Infection of a Joint caused by Streptococcus Bacteria,141482
+2517,Lyme Disease of the Central Nervous System,141483
+2518,Bacteroides Bacteria Infection of Female Pelvic Organs,141484
+2519,Inflammation of the Tonsils,141485
+2520,Imbalance in Body Salts like Potassium and Sodium,141486
+2521,Medullary Thyroid Cancer,141487
+2522,Hiccups that are Hard to Cure,141488
+2523,Combative and Explosive Behavior,141489
+2524,Lead Poisoning,141490
+2525,Poisoning from Swallowed Unknown Substance,141491
