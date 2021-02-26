@@ -115,3 +115,6 @@ dmypy.json
 # Datafile
 Data/
 *.tar
+
+# vim file
+*.swp
