@@ -13,7 +13,8 @@ if __name__ == '__main__':
 
     condition_set = set()
     #for condition_dataset in [uc1['condition'], uc2['condition'], wb['Condition']]:
-    for condition_dataset in [uc1['condition'], uc2['condition']]:
+    #for condition_dataset in [uc1['condition'], uc2['condition']]:
+    for condition_dataset in [uc1['condition']]:
         for condition in condition_dataset:
             if utils.condition_filter(condition):continue
             condition_set.add(condition)
@@ -23,7 +24,8 @@ if __name__ == '__main__':
     json.dump(c2id, open('Data/c2id.json','w'))
     
     drug_set = set()
-    for drug_dataset in [uc1['drugName'], uc2['drugName']]:
+    #for drug_dataset in [uc1['drugName'], uc2['drugName']]:
+    for drug_dataset in [uc1['drugName']]:
         for drug in drug_dataset:
             if utils.drug_filter(drug):continue
             drug_set.add(drug)

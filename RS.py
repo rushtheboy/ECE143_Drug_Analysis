@@ -2,9 +2,10 @@ import pandas as pd
 import numpy as np
 import json
 
+np.random.seed(0)
 
 class RS:
-    POS_THD = 5
+    POS_THD = 5.5
     def __init__(self, N_condition, N_drug, range_of_compute = 10):
         self.N_drug = N_drug
         self.N_condition = N_condition
@@ -21,13 +22,15 @@ class RS:
         count = np.zeros((self.N_condition, self.N_drug))
         for k in range(len(train_data)):
             i,j,r,c = train_data[k]
-            c += 10
+            c += 1
             self.rating[i][j] += r * c
             count[i][j] += c
         for i in range(self.N_condition):
             for j in range(self.N_drug):
                 if count[i][j] > 0:
                     self.rating[i][j] /= count[i][j]
+                else:
+                    self.rating[i][j] = 5.5
 
     def eval(self, test_data):
         total_score = 0
@@ -76,6 +79,19 @@ def build_dataset(data_fname, c2id, d2id):
     print(f"Discard {n} samples in dataset {data_fname}")
     return dataset
 
+def case_study(c2id, d2id, train_dataset, test_dataseti, rs):
+    for cname in ['Post Traumatic Stress Disorde', 'Birth Control',\
+                  'Depression', 'Smoking Cessation',\
+                  'High Blood Pressure','Acne', 'Anxiety']:
+        i = c2id[cname]
+        re_list,_ = rs.recommend(i)
+        dnames = []
+        for t in re_list:
+            for k in d2id:
+                if d2id[k] == t: dnames.append(k)
+        print("Condition: {}, recommend drugs: {}\n".format(cname, dnames))
+
+
 if __name__ == '__main__':
     train_fname = "Data/drugsComTrain_raw.csv"
     test_fname = "Data/drugsComTest_raw.csv"
@@ -89,4 +105,6 @@ if __name__ == '__main__':
     rs.train(train_dataset)
     performance = rs.eval(test_dataset)
     print(performance * 100)
+
+    case_study(c2id, d2id, train_dataset, test_dataset, rs)
 
