@@ -22,13 +22,15 @@ class RS:
         count = np.zeros((self.N_condition, self.N_drug))
         for k in range(len(train_data)):
             i,j,r,c = train_data[k]
-            c += 1
-            self.rating[i][j] += r * c
+            c = 1
+            self.rating[i][j] += (r-5.5) * c
             count[i][j] += c
+        return
         for i in range(self.N_condition):
             for j in range(self.N_drug):
                 if count[i][j] > 0:
-                    self.rating[i][j] /= count[i][j]
+                    self.rating[i][j] /= 1
+                    #self.rating[i][j] /= count[i][j]
                 else:
                     self.rating[i][j] = 5.5
 
