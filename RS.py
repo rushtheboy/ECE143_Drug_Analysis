@@ -84,7 +84,7 @@ def build_dataset(data_fname, c2id, d2id):
 def case_study(c2id, d2id, train_dataset, test_dataseti, rs):
     for cname in ['Post Traumatic Stress Disorde', 'Birth Control',\
                   'Depression', 'Smoking Cessation',\
-                  'High Blood Pressure','Acne', 'Anxiety']:
+                  'High Blood Pressure','Acne', 'Anxiety', 'Pain']:
         i = c2id[cname]
         re_list,_ = rs.recommend(i)
         dnames = []
