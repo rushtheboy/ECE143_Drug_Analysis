@@ -23,7 +23,7 @@ class RS:
         for k in range(len(train_data)):
             i,j,r,c = train_data[k]
             c = 1
-            self.rating[i][j] += (r-5.5) * c
+            self.rating[i][j] += (r-self.POS_THD) * c
             count[i][j] += c
         return
         for i in range(self.N_condition):
@@ -32,7 +32,7 @@ class RS:
                     self.rating[i][j] /= 1
                     #self.rating[i][j] /= count[i][j]
                 else:
-                    self.rating[i][j] = 5.5
+                    self.rating[i][j] = self.POS_THD
 
     def eval(self, test_data):
         total_score = 0
