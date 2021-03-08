@@ -113,8 +113,9 @@ dmypy.json
 .pyre/
 
 # Datafile
-Data/
 *.tar
+Data/*.json
+Data/*.csv
 
 # vim file
 *.swp
