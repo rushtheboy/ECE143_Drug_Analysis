@@ -11,7 +11,18 @@ Diseases are one of the biggest problems people face and there's multiple drugs 
 2) WebMD Drug Reviews (https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset)
 
 ## Flow:
-To run the project, everything you need will be in the Analysis.ipynb notebook. The beginning of the notebook is a basic introduction to the data we're using. It then proceeds into data visualisation.
+To run the project, everything you need will be in the Analysis.ipynb notebook. However, you first need to create and activate the conda environment.
+Create conda:
+```
+conda-env create -f environment.yml
+```
+
+Activate environment:
+```
+conda activate 143_v3
+```
+
+Once you've run this, jupyter should use this environment to run the notebook. The notebook will contain everything else you need, from an introduction to the data, to the visualisation, to the Recommender System.
 
 ## Group Members:
 1) Kevin Liang
