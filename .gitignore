@@ -111,3 +111,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datafile
+*.tar
+Data/*.json
+Data/*.csv
+
+# vim file
+*.swp
