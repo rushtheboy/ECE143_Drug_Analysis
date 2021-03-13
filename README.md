@@ -10,15 +10,8 @@ Diseases are one of the biggest problems people face and there's multiple drugs 
 1) UCI ML Drug Review (https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018)
 2) WebMD Drug Reviews (https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset)
 
-## Recommender System:
-- To be Determined
-
-## Data Visualizations:
-
-1) Ratings vs Year
-2) Frequent Symptoms from patients
-3) Patient review frequent keywords
-4) Clustering Symptoms
+## Flow:
+To run the project, everything you need will be in the Analysis.ipynb notebook. The beginning of the notebook is a basic introduction to the data we're using. It then proceeds into data visualisation.
 
 ## Group Members:
 1) Kevin Liang
