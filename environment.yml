@@ -1,0 +1,16 @@
+name: 143_v3
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - seaborn
+    - matplotlib
+    - glob2
+    - datetime
+    - nltk
+    - tqdm
+    - utils
+    - wordcloud
