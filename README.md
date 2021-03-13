@@ -11,7 +11,7 @@ Diseases are one of the biggest problems people face and there's multiple drugs 
 2) WebMD Drug Reviews (https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset)
 
 ## Flow:
-To run the project, everything you need will be in the Analysis.ipynb notebook. However, you first need to create and activate the conda environment.
+To run the project, everything you need will be in the Analysis_143.ipynb notebook. However, you first need to create and activate the conda environment.
 Create conda:
 ```
 conda-env create -f environment.yml
